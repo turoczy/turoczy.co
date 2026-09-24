@@ -76,11 +76,13 @@ The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The
 
 *This isn't magic. It's simply focus.*
 
-**Return** has been my consulting outfit since 2004. Return helps companies focus.
+**Return** has been my consulting outfit since 2004. Return helps your company focus on a personality, an identity. Usually that personality is polite. Sometimes it’s quirky. Sometimes it’s downright rude.
 
-That's it. That's the whole pitch.
+To get there, Return helps you find the voice and the attitude your market actually wants — and then helps you interact with that market in the least obtrusive, most compelling way possible.
 
-Here's what that actually means. Most companies I talk to don't have a marketing problem — they have a “we say eleven things and none of them stick” problem. So we find the one true thing, say it out loud in plain words, and then make sure everybody from the founder to the newest hire can repeat it without a deck.
+People tend to describe this as branding. Or rebranding. Or positioning. Or marketing. Or consulting. Or some other word they think conveys the concept. What’s the right word? **Focus.**
+
+Because when it comes right down to it, Return earns its keep by helping you distill ideas into words and images your customers and employees understand, want, and cannot forget.
 
 **Who should call:** founders who can't explain their own company at a dinner party. Teams whose messaging drifted three pivots ago. Accelerators, economic development folks, and universities trying to build a startup program that isn't just a rerun of somebody else's.
 
