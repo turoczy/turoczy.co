@@ -1,6 +1,6 @@
 # turoczy.com — session handoff
 
-**Date:** 2026-09-24 · **Repo:** `~/GitHub/turoczy` · **Status:** built, iterating, nothing committed
+**Date:** 2026-09-24 · **Repo:** `~/GitHub/turoczy.co` (origin: `github.com/turoczy/turoczy.co`) · **Status:** built, iterating, committed locally
 
 Personal branding one-pager. Purpose: book **keynotes** and **consulting**. Will later host a Soqratic bot.
 
@@ -9,7 +9,7 @@ Personal branding one-pager. Purpose: book **keynotes** and **consulting**. Will
 ## Run it
 
 ```bash
-cd ~/GitHub/turoczy
+cd ~/GitHub/turoczy.co
 python3 -m http.server 8787     # then open http://localhost:8787/
 ```
 
