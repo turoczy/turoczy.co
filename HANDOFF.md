@@ -68,7 +68,7 @@ All buttons are pills (`border-radius: 999px`) — CTAs, index chips, theme togg
 
 Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work (CV) → Index → Ask a bot → Say hello → AI kibble
 
-- **H1:** "Community, startups, innovation… all of the buzzwords." (Rick's line)
+- **H1:** "Community, startups, innovation… all of the buzzwords" (Rick's line)
 - **Tagline:** "More than mildly obsessed with connecting dots in the startup community" — his LinkedIn headline, sits under the H1 where the dots animate
 - **CTAs:** "Get me on your stage" / "Put me to work" → `mailto:rick@piepdx.com`
 - **Index:** 99 entries, 6 groups, filter chips (Everything · Talks · Shows · Press · Books & decks · Kickstarters · Organizing)
