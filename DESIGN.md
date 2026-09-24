@@ -1,4 +1,4 @@
-# Design plan — turoczy.com
+# Design plan — turoczy.co
 
 ## Subject
 Rick Turoczy. Portland. 19 years of Silicon Florist. Selling keynotes + consulting. Audience: conference programmers, corporate innovation leads, economic development orgs, founders with budget.

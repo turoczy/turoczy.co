@@ -1,4 +1,4 @@
-# turoczy.com — session handoff
+# turoczy.co — session handoff
 
 **Date:** 2026-09-24 · **Repo:** `~/GitHub/turoczy.co` (origin: `github.com/turoczy/turoczy.co`) · **Status:** built, iterating, committed locally
 

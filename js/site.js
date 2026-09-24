@@ -1,4 +1,4 @@
-/* turoczy.com — three jobs only:
+/* turoczy.co — three jobs only:
    1. light/dark toggle, remembered
    2. the hero dot field: dots get connected, slowly, forever
    3. mark the current section in the dot rail
