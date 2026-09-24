@@ -122,7 +122,7 @@ GROUPS = [
  ("","<i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea","https://thesportsbraofficial.com/"),
  ("","<i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand","https://tenderlovingempire.com/"),
 ]),
-("org", "Things I helped organize", [
+("org", "Programming and support", [
  ("2011&ndash;21","<i>TechfestNW</i> &mdash; cofounder and programming curator, with <i>Willamette Week</i>. Multi-track stages, international speakers.","https://web.archive.org/web/20250926091357/https://www.techfestnw.com/"),
  ("2009&ndash;10","<i>30 Hour Day</i> &mdash; a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.","https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/"),
  ("multiple","<i>PIE Demo Days</i> &mdash; the day each cohort graduates into the ecosystem. Bittersweet every time.","https://www.piepdx.com/"),

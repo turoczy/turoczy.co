@@ -281,7 +281,7 @@ Everything I can find a record of — 111 entries and counting. Some of it I rem
 - [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
 - [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
-### Things I helped organize
+### Programming and support
 
 - 2023– — [*Pitch Black* — production crew. Stephen Green’s pitch competition for Black founders, and the best pitch event in Portland. Every dollar goes to the founders as non-dilutive grants.](https://www.pitchblack.org/)
 - 2017– — [*Built Festival* — Built Oregon’s annual gathering of the state’s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.](https://www.builtoregon.com/)
