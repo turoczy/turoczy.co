@@ -116,10 +116,11 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 - PIE (Portland Incubator Experiment) — Cofounder & general manager — 2009 – present
 - Built Oregon — Cofounder; interim director 2024–25; advisor — 2014 – present
 - Return — Cofounder — 2004 – present
-- Business for a Better Portland — Advisor — 2016 – present
+- Better Portland — Advisor — 2016 – present
 
 ### Finished
 
+- Zebras Unite — Advisor — 2019 – 2020
 - Startup Champions Network — Board member — 2021 – 2024
 - Calm Company Fund — Scout and investor — 2021 – 2022
 - Backstage Capital — Mentor and investor — 2017 – 2022
