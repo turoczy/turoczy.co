@@ -94,7 +94,7 @@ Usually this means someone from outside asking the annoying questions your team 
 
 ## Writing
 
-I've been writing [Silicon Florist](https://siliconflorist.com) since 2007 — more than six thousand posts about Oregon startups, most of them written before anyone else thought there were Oregon startups worth writing about.
+I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007 — more than six thousand posts about Oregon startups, most of them written before anyone else thought there were Oregon startups worth writing about.
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -298,7 +298,12 @@ If you've got a stage that needs filling, a company that can't explain itself, o
 
 - [Book a talk](mailto:rick@piepdx.com?subject=Speaking%20inquiry)
 - [Hire Return](mailto:rick@piepdx.com?subject=Consulting%20inquiry)
+
 - [LinkedIn](https://www.linkedin.com/in/turoczy)
+- [X](https://x.com/turoczy)
+- [Bluesky](https://bsky.app/profile/turoczy.bsky.social)
+- [Instagram](https://www.instagram.com/turoczy/)
+- [YouTube](https://youtube.com/@turoczy_)
 
 **Go get 'em.**
 
