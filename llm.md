@@ -155,7 +155,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 99 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 104 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -273,6 +273,11 @@ Everything I can find a record of — 99 entries and counting. Some of it I reme
 - 2023– — [*Pitch Black* — production crew. Stephen Green’s pitch competition for Black founders, and the best pitch event in Portland. Every dollar goes to the founders as non-dilutive grants.](https://www.pitchblack.org/)
 - 2017– — [*Built Festival* — Built Oregon’s annual gathering of the state’s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.](https://www.builtoregon.com/)
 - 2011–21 — [*TechfestNW* — cofounder and programming curator, with *Willamette Week*. Multi-track stages, international speakers.](https://web.archive.org/web/20250926091357/https://www.techfestnw.com/)
+- 2015 — [*We Code* — second Nike women’s hackathon, cohosted with Puppet Labs, July 24–25](https://siliconflorist.com/2015/07/22/code-nike-puppet-labs-host-womens-hackathon/)
+- 2015 — [*Nike Women’s Hackathon* — the first one, on the Nike campus in Beaverton, February](https://siliconflorist.com/2015/02/18/nike-womens-hackathon-sold-waitlist/)
+- 2014 — [*Intel IoT Hackathon: Transportation* — three days at ADX hacking the internet of things, December 5–7](https://siliconflorist.com/2014/12/03/internet-plans-weekend-intel-iot-hackathon-transportation/)
+- 2013 — *Hack @ Hayward* — Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.
+- 2012 — [*Portland Narrative Hack* — a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.](https://vimeo.com/44539955)
 - 2009–10 — [*30 Hour Day* — a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.](https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/)
 - 2008–09 — [*Open Source Bridge* — marketing lead for the first one, after OSCON left town](https://web.archive.org/web/20090305100212/http://opensourcebridge.org/)
 - multiple — [*PIE Demo Days* — the day each cohort graduates into the ecosystem. Bittersweet every time.](https://www.piepdx.com/)
