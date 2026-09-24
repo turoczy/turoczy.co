@@ -100,7 +100,9 @@ There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories 
 
 I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.
 
-I also wrote a blog called “hypocritical” starting in 1998. We don't need to talk about that.
+Before all of that, I wrote a few hundred posts for [**ReadWriteWeb**](https://web.archive.org/web/20111025090628/http://www.readwriteweb.com/archives/author/rick-turoczy-1page2.php) and [**More than a Living**](https://morethanaliving.com/author/turoczy/), back when tech blogging was a thing you could just decide to do.
+
+I also wrote a blog called “hypocritical” starting in 1998. We don’t need to talk about that. (But if you’re curious, it’s still out there in the [Wayback Machine](https://web.archive.org/web/20061208154323/http://www.hypocritical.com/blog).)
 
 ---
 
