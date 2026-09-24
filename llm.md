@@ -155,7 +155,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 111 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 113 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -197,7 +197,9 @@ Everything I can find a record of — 111 entries and counting. Some of it I rem
 - 2025 — [*The 5 Min Startup* — Episode 3, on why new businesses fail fast](https://www.youtube.com/watch?v=pbbAT6TcH-8)
 - 2025 — [*Startup Success*, Burkland — strategies for startups outside Silicon Valley](https://burklandassociates.com/podcasts/strategies-for-startups-outside-silicon-valley/)
 - 2025 — [*Overcommitted* — “Navigating the Startup Landscape,” on founder burnout and where startups actually fail](https://podcasts.apple.com/us/podcast/navigating-the-startup-landscape-with-rick-turoczy/id1804549260?i=1000735230674)
+- 2023 — [*PDX Executive Podcast*, Dan Bruton — “Rick Returns,” on 15 years of PIE and Built Oregon](https://podcasts.apple.com/us/podcast/rick-returns-pie-built-oregon-co-founder-on-15-years/id1247188542?i=1000598535227)
 - 2022 — [*Social Venturers* — S04E08, “Succession Planning: Transferring Social Capital to the Next Generation”](https://socialventurers.com/s04e08/)
+- 2021 — [*PDX Executive Podcast*, Dan Bruton — building startup ecosystems and the evolution of tech community organizers](https://podcasts.apple.com/us/podcast/rick-turoczy-on-building-startup-ecosystems-and/id1247188542?i=1000532280101)
 - 2021 — [*The Communities Show*, Gamedev Camp — PIE, Built Oregon, TechfestNW, and the Portland startup community](https://www.youtube.com/watch?v=EIyNkXUrfY8)
 - 2020 — [*Float Small Business* — Episode 6](https://www.youtube.com/watch?v=wKnK2BmHMwo)
 - 2020 — [Millwork Commons — on the Portland startup community](https://www.youtube.com/watch?v=aVCeDXnT0nI)

@@ -35,6 +35,8 @@ GROUPS = [
  ("2009&ndash;11","<i>memePDX</i> &mdash; co-host with Cami Kaos. Episodes live in the Silicon Florist archive.","https://siliconflorist.com/2010/02/25/memepdx-026-jive-software-ceo-dawn-foster-joins-meego-open-source-bridge-yahoo-twitter-ngmoco-raises-25-million/"),
 ]),
 ("pod", "Podcasts and broadcasts, as a guest", [
+ ("2023","<i>PDX Executive Podcast</i>, Dan Bruton &mdash; &ldquo;Rick Returns,&rdquo; on 15 years of PIE and Built Oregon","https://podcasts.apple.com/us/podcast/rick-returns-pie-built-oregon-co-founder-on-15-years/id1247188542?i=1000598535227"),
+ ("2021","<i>PDX Executive Podcast</i>, Dan Bruton &mdash; building startup ecosystems and the evolution of tech community organizers","https://podcasts.apple.com/us/podcast/rick-turoczy-on-building-startup-ecosystems-and/id1247188542?i=1000532280101"),
  ("2017","<i>PR Talk</i>, Veracity Agency &mdash; &ldquo;Our Own Slice of PIE&rdquo;, on the PIE Cookbook and accelerating failure","https://www.veracityagency.com/podcast/rick-turoczy/"),
  ("2026","<i>My Open Source Experience</i> &mdash; the secrets to successful and sustainable events","https://www.youtube.com/watch?v=2h9yurfW0es"),
  ("2026","<i>Next Round VC</i> &mdash; the truth about startup accelerators","https://www.youtube.com/watch?v=IkeX3OZjfG4"),
