@@ -140,7 +140,7 @@ total = sum(len(g[2]) for g in GROUPS)
 
 L = ['  <section class="section" id="index">',
      '    <div class="section-grid">',
-     '      <div class="section-head"><h2>The index</h2></div>',
+     '      <div class="section-head"><h2>Index</h2></div>',
      '      <div class="section-body">',
      '        <p class="lede">Everything I can find a record of &mdash; %d entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.</p>' % total,
      '',

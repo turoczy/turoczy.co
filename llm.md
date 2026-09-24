@@ -148,7 +148,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ---
 
-## The index
+## Index
 
 Everything I can find a record of — 99 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 

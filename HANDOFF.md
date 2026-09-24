@@ -40,7 +40,7 @@ python3 checklinks.py --bad    # failures only
 | `index_data.py` | **Source of truth for the index section.** Edit here, not in the HTML. |
 | `build.py` | Generates `llm.md` from `index.html`; stamps asset versions. |
 | `checklinks.py` | Verifies every outbound link. |
-| `llm.md` | Generated. Linked from nav as "For your AI". Never hand-edit. |
+| `llm.md` | Generated. Linked from nav as "AI kibble". Never hand-edit. |
 | `DESIGN.md` | Design rationale — palette, type, the dot system. |
 
 ### How to change an index entry
@@ -66,7 +66,7 @@ All buttons are pills (`border-radius: 999px`) — CTAs, index chips, theme togg
 
 ## Page structure
 
-Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work (CV) → The index → Ask a bot → Say hello → For your AI
+Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work (CV) → Index → Ask a bot → Say hello → AI kibble
 
 - **H1:** "Community, startups, innovation… all of the buzzwords." (Rick's line)
 - **Tagline:** "More than mildly obsessed with connecting dots in the startup community" — his LinkedIn headline, sits under the H1 where the dots animate
