@@ -155,7 +155,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 110 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 111 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -163,6 +163,7 @@ Everything I can find a record of — 110 entries and counting. Some of it I rem
 - 2025 — [FOSSY — “Cooking Up Community: Build the Fire, Embrace Every Ingredient, Always Stir the Pot”](https://2025.fossy.us/speaker/profile/486/index.html)
 - 2024 — [Silicon Forest Tech Summit — introducing the inaugural summit](https://www.youtube.com/watch?v=i3uXRPMEcGs)
 - 2020 — [Skoll World Forum — “Ecosystem Builders as Second Responders to Crisis”](https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/)
+- 2018 — [Columbia GSAPP — “Labs, Incubators, Colonies: Propeller and PIE,” a duet with Andrea Chen of Propeller, New Orleans. Wood Auditorium, cohosted with NEW INC.](https://www.youtube.com/watch?v=_kDXQk9p314)
 - 2018 — [TEDxPortland — “An Introvert’s Guide to Networking,” Keller Auditorium, 3,000+ people](https://www.youtube.com/watch?v=Cj98mr_wUA0)
 - 2018 — [Kauffman Foundation ESHIP Summit, Kansas City — “Why do you do what you do?”](https://www.youtube.com/watch?v=VsnNX2vPJM8)
 - 2015 — [Whitman College — Andjelkovic Endowed Lecture Series, back at the alma mater](https://www.youtube.com/watch?v=5eyIqdpG4ZU)

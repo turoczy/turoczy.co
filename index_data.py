@@ -7,6 +7,7 @@ SS='https://www.slideshare.net/turoczy'
 
 GROUPS = [
 ("talk", "Keynotes, conference talks, and panels", [
+ ("2018","Columbia GSAPP &mdash; &ldquo;Labs, Incubators, Colonies: Propeller and PIE,&rdquo; a duet with Andrea Chen of Propeller, New Orleans. Wood Auditorium, cohosted with NEW INC.","https://www.youtube.com/watch?v=_kDXQk9p314"),
  ("2018","TEDxPortland &mdash; &ldquo;An Introvert&rsquo;s Guide to Networking,&rdquo; Keller Auditorium, 3,000+ people","https://www.youtube.com/watch?v=Cj98mr_wUA0"),
  ("2013","HubSpot INBOUND, Boston &mdash; &ldquo;The Power of Humility,&rdquo; Bold Talks track","https://www.youtube.com/watch?v=Cs7Hr_CN5v4"),
  ("2020","Skoll World Forum &mdash; &ldquo;Ecosystem Builders as Second Responders to Crisis&rdquo;","https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/"),
