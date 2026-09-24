@@ -70,7 +70,7 @@ Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work
 
 - **H1:** "Community, startups, innovation… all of the buzzwords" (Rick's line)
 - **Tagline:** "More than mildly obsessed with connecting dots in the startup community" — his LinkedIn headline, sits under the H1 where the dots animate
-- **CTAs:** "Get me on your stage" / "Put me to work" → `mailto:rick@piepdx.com`
+- **CTAs:** "Put me on stage" / "Put me to work" → `mailto:rick@piepdx.com`
 - **Index:** 99 entries, 6 groups, filter chips (Everything · Talks · Shows · Press · Books & decks · Kickstarters · Organizing)
 
 Copy came from @writer, structure from @CMO.
