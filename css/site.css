@@ -237,6 +237,37 @@ strong { font-weight: 600; }
   color: var(--ink-quiet);
   text-decoration: none;
 }
+.strip-social {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex: 0 0 auto;
+  margin-left: -0.6rem;
+  padding-left: 0.9rem;
+  border-left: 1px solid var(--rule);
+}
+.strip-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: var(--ink-quiet);
+  transition: color 0.18s ease, background 0.18s ease;
+}
+.strip-social svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  display: block;
+}
+.strip-social a:hover,
+.strip-social a:focus-visible {
+  color: var(--ink);
+  background: color-mix(in srgb, var(--moss) 22%, transparent);
+}
+
 .strip a[aria-current="true"] {
   color: var(--rose);
   font-weight: 600;
