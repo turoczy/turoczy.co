@@ -45,7 +45,7 @@ A fair number of these were recorded. [Here they are](https://www.youtube.com/pl
 
 *Want something else? Ask. I'll tell you honestly if I'm the wrong person, and usually suggest someone better.*
 
-Keynotes, panels, fireside chats, and the occasional unconference. Yes, I travel. Yes, I'll do the early flight.
+Keynotes, panels, fireside chats, and the occasional unconference. Yes, I travel. Yes, I'll do the early flight. Even the redeye.
 
 ---
 
