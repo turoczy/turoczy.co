@@ -145,10 +145,11 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 - David Hiatt Literary Agency — Editor and literary agent — 1994 – 1996
 - Whitman College — Head coach, lacrosse — 1993 – 1995
 
-### School, and one award I still can’t explain
+### School, and two awards I still can’t explain
 
 - Whitman College — BA, English — 1989 – 1993
-- Portland Business Journal — Small Business Advocate of the Year; Forty Under 40 — 2014
+- Portland Business Journal — Small Business Advocate of the Year — 2014
+- Portland Business Journal — Forty Under 40
 
 ---
 
