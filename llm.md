@@ -98,7 +98,7 @@ I've been writing [Silicon Florist](https://siliconflorist.com) since 2007 — m
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
-I also wrote the [PIE Cookbook](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.
+I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.
 
 I also wrote a blog called “hypocritical” starting in 1998. We don't need to talk about that.
 
