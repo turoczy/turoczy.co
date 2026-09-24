@@ -149,7 +149,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 - Whitman College — BA, English — 1989 – 1993
 - Portland Business Journal — Small Business Advocate of the Year — 2014
-- Portland Business Journal — Forty Under 40
+- Portland Business Journal — Forty Under 40 — 2010
 
 ---
 
