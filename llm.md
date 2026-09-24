@@ -155,7 +155,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 104 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 110 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -267,6 +267,15 @@ Everything I can find a record of — 104 entries and counting. Some of it I rem
 
 - 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
 - 2014 — [*Built Oregon* — funding a statewide storytelling project for Oregon’s consumer product founders, because nobody was telling those stories either](https://www.kickstarter.com/projects/130336980/built-oregon/)
+
+### Things I’ve invested in
+
+- [*Airship* (neé Urban Airship) — Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M](https://www.airship.com/)
+- [*Backstage Capital* — Arlan Hamilton’s fund backing founders who are underrepresented, underestimated, and usually overlooked](https://backstagecapital.com/)
+- [*Customer.io* — Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute](https://customer.io/)
+- [*Graze* — feed-building on Bluesky’s open social protocol, so the algorithm is yours instead of somebody else’s](https://www.graze.social/)
+- [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
+- [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
 ### Things I helped organize
 

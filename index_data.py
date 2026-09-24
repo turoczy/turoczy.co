@@ -111,6 +111,14 @@ GROUPS = [
  ("2016","<i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away","https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"),
  ("2014","<i>Built Oregon</i> &mdash; funding a statewide storytelling project for Oregon&rsquo;s consumer product founders, because nobody was telling those stories either","https://www.kickstarter.com/projects/130336980/built-oregon/"),
 ]),
+("invest", "Things I&rsquo;ve invested in", [
+ ("","<i>Airship</i> (neé Urban Airship) &mdash; Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M","https://www.airship.com/"),
+ ("","<i>Backstage Capital</i> &mdash; Arlan Hamilton&rsquo;s fund backing founders who are underrepresented, underestimated, and usually overlooked","https://backstagecapital.com/"),
+ ("","<i>Customer.io</i> &mdash; Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute","https://customer.io/"),
+ ("","<i>Graze</i> &mdash; feed-building on Bluesky&rsquo;s open social protocol, so the algorithm is yours instead of somebody else&rsquo;s","https://www.graze.social/"),
+ ("","<i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea","https://thesportsbraofficial.com/"),
+ ("","<i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand","https://tenderlovingempire.com/"),
+]),
 ("org", "Things I helped organize", [
  ("2011&ndash;21","<i>TechfestNW</i> &mdash; cofounder and programming curator, with <i>Willamette Week</i>. Multi-track stages, international speakers.","https://web.archive.org/web/20250926091357/https://www.techfestnw.com/"),
  ("2009&ndash;10","<i>30 Hour Day</i> &mdash; a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.","https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/"),
@@ -151,7 +159,7 @@ L = ['  <section class="section" id="index">',
      '',
      '        <div class="filters" role="group" aria-label="Filter the index">',
      '          <button type="button" class="chip" data-filter="all" aria-pressed="true">Everything</button>']
-for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Books &amp; decks"),("kick","Kickstarters"),("org","Organizing")]:
+for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Books &amp; decks"),("kick","Kickstarters"),("invest","Investments"),("org","Organizing")]:
     L.append('          <button type="button" class="chip" data-filter="%s" aria-pressed="false">%s</button>' % (key, lab))
 L.append('        </div>')
 
