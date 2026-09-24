@@ -305,6 +305,6 @@ If you've got a stage that needs filling, a company that can't explain itself, o
 - [Instagram](https://www.instagram.com/turoczy/)
 - [YouTube](https://youtube.com/@turoczy_)
 
-**Go get 'em.**
+**Let’s get started.**
 
 ---
