@@ -120,13 +120,13 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ### Finished
 
-- Zebras Unite — Advisor — 2019 – 2020
 - Startup Champions Network — Board member — 2021 – 2024
 - Calm Company Fund — Scout and investor — 2021 – 2022
 - Backstage Capital — Mentor and investor — 2017 – 2022
 - TechfestNW — Cofounder & advisor — 2011 – 2021
 - Oregon Games Organization — Board member — 2014 – 2021
 - Indie.vc — Scout — 2019 – 2021
+- Zebras Unite — Advisor — 2019 – 2020
 - Portland IQ — Startup resource work group lead — 2018 – 2019
 - Oregon Story Board — Cofounder & advisor — 2012 – 2018
 - Technology Association of Oregon — Board member — 2011 – 2017
