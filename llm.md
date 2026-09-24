@@ -280,7 +280,7 @@ Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subjec
 
 ---
 
-## Ask a bot
+## Chat
 
 Coming soon: a bot that has read everything I've ever written — every post, every talk, every long-winded answer — so you can ask it the thing you'd ask me.
 
@@ -298,12 +298,16 @@ If you've got a stage that needs filling, a company that can't explain itself, o
 
 - [Book a talk](mailto:rick@piepdx.com?subject=Speaking%20inquiry)
 - [Hire Return](mailto:rick@piepdx.com?subject=Consulting%20inquiry)
+- [Subscribe to Silicon Florist](https://siliconflorist.substack.com)
+- [Support the work on Patreon](https://www.patreon.com/turoczy)
 
 - [LinkedIn](https://www.linkedin.com/in/turoczy)
 - [X](https://x.com/turoczy)
 - [Bluesky](https://bsky.app/profile/turoczy.bsky.social)
 - [Instagram](https://www.instagram.com/turoczy/)
 - [YouTube](https://youtube.com/@turoczy_)
+- [Substack](https://siliconflorist.substack.com)
+- [Patreon](https://www.patreon.com/turoczy)
 
 **Let’s get started.**
 

@@ -66,7 +66,7 @@ All buttons are pills (`border-radius: 999px`) — CTAs, index chips, theme togg
 
 ## Page structure
 
-Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work (CV) → Index → Ask a bot → Say hello → AI kibble
+Hero → Hello, I'm Rick → Talks → Receipts → Hire me → Writing → Work (CV) → Index → Chat → Say hello → AI kibble
 
 - **H1:** "Community, startups, innovation… all of the buzzwords" (Rick's line)
 - **Tagline:** "More than mildly obsessed with connecting dots in the startup community" — his LinkedIn headline, sits under the H1 where the dots animate
