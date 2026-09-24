@@ -94,7 +94,7 @@ Usually this means someone from outside asking the annoying questions your team 
 
 ## Writing
 
-I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007 — more than six thousand posts about Oregon startups, most of them written before anyone else thought there were Oregon startups worth writing about.
+I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. More than six thousand posts about Oregon startups. Most of them written before anyone else thought there were Oregon startups worth writing about.
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 

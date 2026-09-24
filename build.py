@@ -9,11 +9,14 @@ Markdown never drifts from what a person actually sees:
 
 import html
 import io
+import os
 import re
 from html.parser import HTMLParser
 
 SRC = "index.html"
 OUT = "llm.md"
+LLM_TXT = "llm.txt"
+LLMS_TXT = "llms.txt"
 
 SKIP_TAGS = {"script", "style", "svg", "button", "nav"}
 INLINE = {"a", "b", "i", "em", "strong", "span", "q", "cite", "br"}
@@ -208,6 +211,14 @@ def main():
     md = re.sub(r"\n{3,}", "\n\n", md).rstrip() + "\n"
     io.open(OUT, "w", encoding="utf-8").write(md)
     print("wrote %s — %d lines, %d bytes" % (OUT, md.count("\n"), len(md)))
+
+    # llm.txt is hand-written; llms.txt is the discoverable spelling crawlers
+    # look for. Keep the copy in lockstep so the two can never drift.
+    if os.path.exists(LLM_TXT):
+        txt = io.open(LLM_TXT, encoding="utf-8").read()
+        if not os.path.exists(LLMS_TXT) or io.open(LLMS_TXT, encoding="utf-8").read() != txt:
+            io.open(LLMS_TXT, "w", encoding="utf-8").write(txt)
+            print("synced %s → %s" % (LLM_TXT, LLMS_TXT))
 
 
 if __name__ == "__main__":
