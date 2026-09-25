@@ -90,7 +90,7 @@ GROUPS = [
  ("2021","<i>Willamette Week</i> &mdash; &ldquo;What If You Could Pour Your Own Shampoo From a Tap?&rdquo;","https://www.wweek.com/technology/2021/07/02/what-if-you-could-pump-your-own-shampoo/"),
  ("2008&ndash;09","<i>ReadWriteWeb</i> &mdash; bylined writer on the open web, APIs, and developer hubs outside California","http://web.archive.org/web/20120116011447/http://www.readwriteweb.com:80/archives/readwriteweb_expands_silicon_forest_empire.php"),
 ]),
-("deck", "Books, decks, and masterclasses", [
+("deck", "Writing", [
  ("2026","<i>It Takes a Valley</i>, Anika Horn &mdash; a practitioner&rsquo;s book about the people who build the ecosystems that make entrepreneurship possible. I turn up in it.","https://bookshop.org/p/books/it-takes-a-valley-how-to-build-thriving-entrepreneurial-ecosystems-that-transform-our-communities-anika-horn/24830809?aid=128693&amp;ean=9798995796312&amp;listref=startup-books"),
  ("2020","<i>The Startup Community Way</i>, Brad Feld and Ian Hathaway &mdash; on building complex, founder-led regional ecosystems. I turn up in this one too.","https://bookshop.org/p/books/the-startup-community-way-evolving-an-entrepreneurial-ecosystem-brad-feld/16653612?aid=128693&amp;ean=9781119613602&amp;listref=startup-books"),
  ("2017","<i>Portland Makers: How to Build a Creative Community</i> &mdash; ポートランド・メイカーズ. Mitsuya Mazaki interviewed me in 2016; my words came out in Japanese, and later Korean.","https://book.gakugei-pub.co.jp/gakugei-book/9784761526429/"),
@@ -123,7 +123,7 @@ GROUPS = [
  ("","<i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea","https://thesportsbraofficial.com/"),
  ("","<i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand","https://tenderlovingempire.com/"),
 ]),
-("org", "Programming and support", [
+("org", "Organizing", [
  ("2011&ndash;21","<i>TechfestNW</i> &mdash; cofounder and programming curator, with <i>Willamette Week</i>. Multi-track stages, international speakers. <i>Fortune</i> called it &ldquo;the next SXSW,&rdquo; which was generous.","https://web.archive.org/web/20250926091357/https://www.techfestnw.com/"),
  ("2009&ndash;10","<i>30 Hour Day</i> &mdash; a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.","https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/"),
  ("multiple","<i>PIE Demo Days</i> &mdash; the day each cohort graduates into the ecosystem. Bittersweet every time.","https://www.piepdx.com/"),
@@ -163,7 +163,7 @@ L = ['  <section class="section" id="index">',
      '',
      '        <div class="filters" role="group" aria-label="Filter the index">',
      '          <button type="button" class="chip" data-filter="all" aria-pressed="true">Everything</button>']
-for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Books &amp; decks"),("kick","Kickstarters"),("invest","Investments"),("org","Organizing")]:
+for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Writing"),("kick","Kickstarters"),("invest","Investments"),("org","Organizing")]:
     L.append('          <button type="button" class="chip" data-filter="%s" aria-pressed="false">%s</button>' % (key, lab))
 L.append('        </div>')
 

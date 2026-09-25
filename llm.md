@@ -33,7 +33,7 @@ I'm an introvert who has spent three decades in rooms full of people. So I've ha
 
 I've done this at TEDxPortland, in front of 3,000 folks at Keller Auditorium. At HubSpot's INBOUND. At the Skoll World Forum. In Kobe, Japan, and Muscat, Oman, where I told very patient audiences to stop trying to be Silicon Valley.
 
-Nobody has asked for their money back yet.
+Nobody has asked for their money back. Yet.
 
 - **An Introvert's Guide to Networking** — The version of networking you've been sold is built for people who like networking. This is the one for everybody else — where showing up, listening, and following through beat working the room every single time. — Delivered at TEDxPortland, Keller Auditorium
 - **Don't be the next Silicon Valley. Be the first you.** — Every city wants a Sand Hill Road. Almost none of them need one. What you actually have — the industries, the weirdos, the institutions already sitting there — is the thing worth building on, and I'll make the case with receipts from a town that spent thirty years learning it the hard way. — Versions delivered in Kobe, Japan and Muscat, Oman
@@ -246,7 +246,7 @@ Everything I can find a record of — 114 entries and counting. Some of it I rem
 - 2008–09 — [*ReadWriteWeb* — bylined writer on the open web, APIs, and developer hubs outside California](http://web.archive.org/web/20120116011447/http://www.readwriteweb.com:80/archives/readwriteweb_expands_silicon_forest_empire.php)
 - 2008 — [*The Oregonian* — Steve Woodward on Portland’s early Twitter adoption](https://web.archive.org/web/20160315014332/http://www.oregonlive.com/special/index.ssf/2008/05/twitter_is_tweeter.html)
 
-### Books, decks, and masterclasses
+### Writing
 
 - 2026 — [*It Takes a Valley*, Anika Horn — a practitioner’s book about the people who build the ecosystems that make entrepreneurship possible. I turn up in it.](https://bookshop.org/p/books/it-takes-a-valley-how-to-build-thriving-entrepreneurial-ecosystems-that-transform-our-communities-anika-horn/24830809?aid=128693&ean=9798995796312&listref=startup-books)
 - 2025 — [*AI Is Revolutionizing Startup Growth Opportunities Now*](https://www.youtube.com/watch?v=dhiYkJBzA5M)
@@ -282,7 +282,7 @@ Everything I can find a record of — 114 entries and counting. Some of it I rem
 - [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
 - [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
-### Programming and support
+### Organizing
 
 - 2023– — [*Pitch Black* — production crew. Stephen Green’s pitch competition for Black founders, and the best pitch event in Portland. Every dollar goes to the founders as non-dilutive grants.](https://www.pitchblack.org/)
 - 2017– — [*Built Festival* — Built Oregon’s annual gathering of the state’s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.](https://www.builtoregon.com/)
