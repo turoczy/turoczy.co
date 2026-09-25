@@ -139,6 +139,7 @@
     var MAX_DEGREE = 3;   // airy: no dot becomes a hairball
     var dots = [], nodes = [], pairs = [];
     var degree = {}, used = {}, drawn = 0, target = 0;
+    var hub = null, hubPairs = [], hubUsed = {}, hubDrawn = 0, hubTarget = 0;
     var built = false;
 
     function build() {
@@ -185,6 +186,32 @@
       }
 
       target = Math.min(pairs.length, 54);
+
+      // --- The hub: Rick, in the middle of it -------------------------
+      // The avatar's centre, in the field's own coordinates. Lines leave
+      // from under the disc, so its float never shows a seam.
+      var av = document.querySelector(".hero-avatar");
+      var ctm2 = svg.getScreenCTM();
+      if (av && ctm2) {
+        var ar = av.getBoundingClientRect();
+        if (ar.width) {
+          var inv2 = ctm2.inverse();
+          var hp = svg.createSVGPoint();
+          hp.x = ar.left + ar.width / 2;
+          hp.y = ar.top + ar.height / 2;
+          var hc = hp.matrixTransform(inv2);
+          hub = { x: hc.x, y: hc.y };
+          for (var hi = 0; hi < dots.length; hi++) {
+            var hd = Math.hypot(dots[hi].x - hub.x, dots[hi].y - hub.y);
+            if (hd > 60 && hd < 430 &&
+                !overType((dots[hi].x + hub.x) / 2, (dots[hi].y + hub.y) / 2)) {
+              hubPairs.push([hi, hd]);
+            }
+          }
+          hubPairs.sort(function (m, n) { return m[1] - n[1]; });
+          hubTarget = Math.min(hubPairs.length, 7);
+        }
+      }
     }
 
     // --- Collect a dot ------------------------------------------------
@@ -199,6 +226,49 @@
       var pick = left[(Math.random() * left.length) | 0];
       nodes[pick].classList.add("shown");
       shown.push(pick);
+      return true;
+    }
+
+    // A line from Rick to a dot he has collected.
+    function connectHub() {
+      if (!hub || hubDrawn >= hubTarget) return false;
+      var pick = null;
+      for (var t = 0; t < 60 && !pick; t++) {
+        var cand = hubPairs[(Math.random() * hubPairs.length) | 0];
+        if (!cand || hubUsed[cand[0]]) continue;
+        if (shown.indexOf(cand[0]) === -1) continue;
+        if ((degree[cand[0]] || 0) >= MAX_DEGREE) continue;
+        pick = cand;
+      }
+      if (!pick) return false;
+
+      hubUsed[pick[0]] = true;
+      degree[pick[0]] = (degree[pick[0]] || 0) + 1;
+      hubDrawn++;
+
+      var q = dots[pick[0]];
+      var ln = document.createElementNS(NS, "line");
+      ln.setAttribute("x1", hub.x); ln.setAttribute("y1", hub.y);
+      ln.setAttribute("x2", q.x);   ln.setAttribute("y2", q.y);
+      ln.style.setProperty("--len", pick[1]);
+      ln.setAttribute("class", "hubline");
+      svg.insertBefore(ln, svg.firstChild);
+
+      if (reduced) {
+        ln.classList.add("settled");
+        nodes[pick[0]].classList.add("linked");
+        return true;
+      }
+      nodes[pick[0]].classList.add("active");
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () { ln.classList.add("draw"); });
+      });
+      setTimeout(function () {
+        ln.classList.remove("draw");
+        ln.classList.add("settled");
+        nodes[pick[0]].classList.remove("active");
+        nodes[pick[0]].classList.add("linked");
+      }, 2900);
       return true;
     }
 
@@ -276,6 +346,7 @@
 
       if (reduced) {
         while (reveal()) {}
+        while (connectHub()) {}
         while (connect()) {}
         return;
       }
@@ -299,8 +370,15 @@
         var moreDots = shown.length < nodes.length;
         var wantDot = moreDots && (shown.length < 8 || Math.random() < 0.45);
 
-        var did = wantDot ? reveal() : connect();
+        // Rick reaches out first; after that his lines are an
+        // occasional thread through the ordinary dot-to-dot work.
+        var wantHub = hub && hubDrawn < hubTarget &&
+                      (hubDrawn < 3 ? shown.length >= 3 : Math.random() < 0.3);
+
+        var did = wantHub ? connectHub()
+                          : (wantDot ? reveal() : connect());
         if (!did) did = wantDot ? connect() : reveal();
+        if (!did) did = connectHub();
 
         if (did) misses = 0;
         else if (++misses > 6) clearInterval(tick); // nothing left to do

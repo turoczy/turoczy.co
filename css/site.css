@@ -358,6 +358,14 @@ strong { font-weight: 600; }
   stroke-dashoffset: 0;
 }
 
+/* Lines that leave from Rick rather than between two dots. A touch
+   brighter than the ambient matrix so his threads stay readable. */
+.hero-field line.hubline {
+  stroke: var(--rose);
+  stroke-width: 1.15;
+}
+.hero-field line.hubline.settled { opacity: 0.34; }
+
 @media (prefers-reduced-motion: reduce) {
   .hero-field circle, .hero-field line { transition: none; }
 }
@@ -370,6 +378,45 @@ strong { font-weight: 600; }
 }
 
 .hero-inner { position: relative; z-index: 1; }
+
+/* The avatar Rick uses everywhere, floating over the field. The dot
+   field's connections leave from underneath it — see site.js — so the
+   origin stays hidden behind the disc while it drifts. */
+.hero-avatar {
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  right: clamp(1rem, 5vw, 5rem);
+  width: clamp(104px, 15vw, 196px);
+  height: auto;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #000;
+  box-shadow:
+    0 0 0 1px var(--rule),
+    0 0 0 6px color-mix(in srgb, var(--ground) 92%, transparent),
+    0 18px 44px -12px rgba(20, 36, 30, 0.42);
+  animation: avatar-float 7s ease-in-out infinite;
+  pointer-events: none;
+}
+@keyframes avatar-float {
+  0%, 100% { transform: translateY(-50%); }
+  50%      { transform: translateY(calc(-50% - 9px)); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-avatar { animation: none; transform: translateY(-50%); }
+}
+@media (max-width: 720px) {
+  .hero-avatar {
+    position: static;
+    display: block;
+    transform: none;
+    margin: 0 0 1.5rem;
+    width: clamp(88px, 26vw, 128px);
+    animation: none;
+  }
+}
 
 .wordmark {
   font-family: var(--body);
