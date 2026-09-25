@@ -27,7 +27,7 @@ Sometimes people pay me to help. That still surprises me.
 
 ---
 
-## Talks
+## Talking
 
 I'm an introvert who has spent three decades in rooms full of people. So I've had to get very deliberate about how any of this works — and it turns out the deliberate part is the useful part.
 
@@ -46,6 +46,20 @@ A fair number of these were recorded. [Here they are](https://www.youtube.com/pl
 *Want something else? Ask. I'll tell you honestly if I'm the wrong person, and usually suggest someone better.*
 
 Keynotes, panels, fireside chats, and the occasional unconference. Yes, I travel. Yes, I'll do the early flight. Even the redeye.
+
+---
+
+## Typing
+
+I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. More than six thousand posts about Oregon startups. Most of them written before anyone else thought there were Oregon startups worth writing about.
+
+There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
+
+I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.
+
+Before all of that, I wrote a few hundred posts for [**ReadWriteWeb**](https://web.archive.org/web/20111025090628/http://www.readwriteweb.com/archives/author/rick-turoczy-1page2.php) and [**More than a Living**](https://morethanaliving.com/author/turoczy/), back when tech blogging was a thing you could just decide to do.
+
+I also wrote a blog called “hypocritical” starting in 1998. We don’t need to talk about that. (But if you’re curious, it’s still out there in the [Wayback Machine](https://web.archive.org/web/20061208154323/http://www.hypocritical.com/blog).)
 
 ---
 
@@ -89,20 +103,6 @@ Because when it comes right down to it, Return earns its keep by helping you dis
 **What it looks like:** a few honest conversations, an outsider reading everything you've published, and a short document you'll actually use. Then I get out of your way.
 
 Usually this means someone from outside asking the annoying questions your team is too polite to ask.
-
----
-
-## Writing
-
-I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. More than six thousand posts about Oregon startups. Most of them written before anyone else thought there were Oregon startups worth writing about.
-
-There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
-
-I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.
-
-Before all of that, I wrote a few hundred posts for [**ReadWriteWeb**](https://web.archive.org/web/20111025090628/http://www.readwriteweb.com/archives/author/rick-turoczy-1page2.php) and [**More than a Living**](https://morethanaliving.com/author/turoczy/), back when tech blogging was a thing you could just decide to do.
-
-I also wrote a blog called “hypocritical” starting in 1998. We don’t need to talk about that. (But if you’re curious, it’s still out there in the [Wayback Machine](https://web.archive.org/web/20061208154323/http://www.hypocritical.com/blog).)
 
 ---
 
