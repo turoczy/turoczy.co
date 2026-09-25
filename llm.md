@@ -324,6 +324,7 @@ If you've got a stage that needs filling, a company that can't explain itself, o
 - [X](https://x.com/turoczy)
 - [Bluesky](https://bsky.app/profile/turoczy.bsky.social)
 - [Instagram](https://www.instagram.com/turoczy/)
+- [Threads](https://www.threads.com/@turoczy)
 - [YouTube](https://youtube.com/@turoczy_)
 - [Substack](https://siliconflorist.substack.com)
 - [Patreon](https://www.patreon.com/turoczy)
