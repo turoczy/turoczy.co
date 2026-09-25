@@ -805,3 +805,8 @@ footer.foot {
 
 /* The talk list ends on a rule; give what follows room to breathe. */
 .after-list { margin-top: 2.25rem; }
+.foot-copyright {
+  margin-top: 0.35rem;
+  font-size: 0.8125rem;
+  color: var(--ink-quiet);
+}
