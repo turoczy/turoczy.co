@@ -15,11 +15,11 @@ Contact: rick@piepdx.com
 
 Portland has never been particularly good at bragging about itself.
 
-That's part of the charm. It's also a problem. And somewhere around 2007, I started a blog called Silicon Florist to do the bragging on everyone else's behalf — mostly because no one else was going to.
+That's part of the charm. It's also a problem. And somewhere around 2007, I started a blog called [**Silicon Florist**](https://siliconflorist.com) to do the bragging on everyone else's behalf — mostly because no one else was going to.
 
 More than six thousand posts later, I’m still at it. Even though numerous people have begged me to stop. But like three of you encouraged me to keep going. So here we are.
 
-Along the way I cofounded **PIE**, an experiment in getting startups and giant companies — Autodesk, Coca-Cola, Daimler, Google, Intel, Nike, Prosper Portland, Puppet, the State of Oregon, Stoel Rives, Target, and Wieden+Kennedy, among others — into the same room without anyone getting hurt. I cofounded **TechfestNW**. And **Built Oregon**. I helped organize Portland Startup Week, Open Source Bridge, 30 Hour Day, Built Festival, and more PIE Demo Days than I can count — which mostly meant showing up early and staying late.
+Along the way I cofounded [**PIE**](https://www.piepdx.com/), an experiment in getting startups and giant companies — Autodesk, Coca-Cola, Daimler, Google, Intel, Nike, Prosper Portland, Puppet, the State of Oregon, Stoel Rives, Target, and Wieden+Kennedy, among others — into the same room without anyone getting hurt. I cofounded **TechfestNW**. And **Built Oregon**. I helped organize **Portland Startup Week**, **Open Source Bridge**, **30 Hour Day**, **Built Festival**, and more **PIE Demo Days** than I can count — which mostly meant showing up early and staying late.
 
 I don't really do anything. But I do my damnedest to celebrate the folks who are actually doing things.
 
