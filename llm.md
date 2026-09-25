@@ -19,7 +19,7 @@ That's part of the charm. It's also a problem. And somewhere around 2007, I star
 
 More than six thousand posts later, I’m still at it. Even though numerous people have begged me to stop. But like three of you encouraged me to keep going. So here we are.
 
-Along the way I cofounded **PIE**, an experiment in getting startups and giant companies like Nike, Google, Intel, Target, and Wieden+Kennedy into the same room without anyone getting hurt. I cofounded **TechfestNW**. And **Built Oregon**. I helped organize Open Source Bridge, 30 Hour Day, Built Festival, and more PIE Demo Days than I can count — which mostly meant showing up early and staying late.
+Along the way I cofounded **PIE**, an experiment in getting startups and giant companies — Autodesk, Coca-Cola, Daimler, Google, Intel, Nike, Prosper Portland, Puppet, the State of Oregon, Stoel Rives, Target, and Wieden+Kennedy, among others — into the same room without anyone getting hurt. I cofounded **TechfestNW**. And **Built Oregon**. I helped organize Portland Startup Week, Open Source Bridge, 30 Hour Day, Built Festival, and more PIE Demo Days than I can count — which mostly meant showing up early and staying late.
 
 I don't really do anything. But I do my damnedest to celebrate the folks who are actually doing things.
 
@@ -156,7 +156,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 113 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 114 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -286,7 +286,8 @@ Everything I can find a record of — 113 entries and counting. Some of it I rem
 
 - 2023– — [*Pitch Black* — production crew. Stephen Green’s pitch competition for Black founders, and the best pitch event in Portland. Every dollar goes to the founders as non-dilutive grants.](https://www.pitchblack.org/)
 - 2017– — [*Built Festival* — Built Oregon’s annual gathering of the state’s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.](https://www.builtoregon.com/)
-- 2011–21 — [*TechfestNW* — cofounder and programming curator, with *Willamette Week*. Multi-track stages, international speakers.](https://web.archive.org/web/20250926091357/https://www.techfestnw.com/)
+- 2011–21 — [*TechfestNW* — cofounder and programming curator, with *Willamette Week*. Multi-track stages, international speakers. *Fortune* called it “the next SXSW,” which was generous.](https://web.archive.org/web/20250926091357/https://www.techfestnw.com/)
+- 2014–20 — [*Portland Startup Week* — started it and ran the programming, then handed it off in 2020. It outlasted me by six years and survived a pandemic before being retired in 2026 in favor of a statewide Oregon Startup Week.](https://siliconflorist.com/2014/10/14/portland-startup-week-design-week-portland-startup-awesomeness/)
 - 2019 — [*Startup Champions Network Spring Summit* — lead organizer and local host, with PIE. Ecosystem builders from around the country spent 2.5 days in Portland, March 19–21, with panels at the Wacom Experience Center, a public reception at Tilt on East Burnside, and site visits across the city.](https://siliconflorist.com/2019/11/14/revisiting-the-startup-champions-network-portland-visit/)
 - 2016 — [*Intel Outside* — lead organizer. A free community job fair at the Falcon Building for the ~800 Portlanders laid off by Intel, built from a blog post to nearly 200 supporting companies in four weeks, with no budget.](https://siliconflorist.com/2016/05/24/escalated-quickly-join-free-portland-community-job-fair-june-1-falcon-building/)
 - 2013 — *Hack @ Hayward* — Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.
