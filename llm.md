@@ -156,7 +156,7 @@ Thirty years of it. The first half was marketing jobs at software companies. The
 
 ## Index
 
-Everything I can find a record of — 111 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 112 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -227,6 +227,7 @@ Everything I can find a record of — 111 entries and counting. Some of it I rem
 - 2015 — [*Portland Monthly* — “Hot Tips from Portland’s Financial Pros”](https://www.pdxmonthly.com/news-and-city-life/2015/01/hot-tips-from-portlands-financial-pros-january-2015)
 - 2015 — [*Oregon Business* — PIE plans to leave the Wieden+Kennedy building](https://oregonbusiness.com/12056-portland-incubator-experiment-plans-to-leave-wiedenkennedy-building/)
 - 2015 — [*GeekWire* — PIE closes the accelerator, keeps helping startups](https://www.geekwire.com/2015/portland-incubator-experiment-closes-accelerator-but-still-focused-on-helping-startups/)
+- 2014 — [*Portland Monthly* — “Reasons to Love Portland: Rick Turoczy,” Marty Patail, from the “100 Reasons to Love Portland” series](https://www.pdxmonthly.com/news-and-city-life/2014/06/rick-turoczy-june-2014)
 - 2014 — [*Portland Business Journal* — “Small Business Awards: Rick Turoczy gets startups off to great starts”](https://www.bizjournals.com/portland/print-edition/2014/11/14/small-business-awards-rick-turoczy-gets-startups.html)
 - 2014 — *Willamette Week* — PIE Demo Day live stream and report
 - 2013 — [Business Wire — “The Silicon Florist Shares Some Secrets of Growing Good Relationships with Bloggers”](https://businesswired.wordpress.com/2013/01/24/the-silicon-florist-shares-some-secrets-of-growing-good-relationships-with-bloggers/)

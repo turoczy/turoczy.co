@@ -73,6 +73,7 @@ GROUPS = [
  ("2012","<i>Willamette Week</i> &mdash; &ldquo;Exclusive: New PIE Class Announced&rdquo;","https://www.wweek.com/portland/blog-28909-exclusive-new-pie-class-announced.html"),
  ("2013","Business Wire &mdash; &ldquo;The Silicon Florist Shares Some Secrets of Growing Good Relationships with Bloggers&rdquo;","https://businesswired.wordpress.com/2013/01/24/the-silicon-florist-shares-some-secrets-of-growing-good-relationships-with-bloggers/"),
  ("2013","<i>Willamette Week</i> &mdash; &ldquo;TechfestNW 2013: Rick Turoczy&rdquo;","https://www.wweek.com/portland/article-21061-techfestnw-2013-rick-turoczy.html"),
+ ("2014","<i>Portland Monthly</i> &mdash; &ldquo;Reasons to Love Portland: Rick Turoczy,&rdquo; Marty Patail, from the &ldquo;100 Reasons to Love Portland&rdquo; series","https://www.pdxmonthly.com/news-and-city-life/2014/06/rick-turoczy-june-2014"),
  ("2014","<i>Portland Business Journal</i> &mdash; &ldquo;Small Business Awards: Rick Turoczy gets startups off to great starts&rdquo;","https://www.bizjournals.com/portland/print-edition/2014/11/14/small-business-awards-rick-turoczy-gets-startups.html"),
  ("2014","<i>Willamette Week</i> &mdash; PIE Demo Day live stream and report",""),
  ("2015","<i>Portland Monthly</i> &mdash; &ldquo;Hot Tips from Portland&rsquo;s Financial Pros&rdquo;","https://www.pdxmonthly.com/news-and-city-life/2015/01/hot-tips-from-portlands-financial-pros-january-2015"),
