@@ -100,10 +100,52 @@
       var next = [];
 
       Array.prototype.forEach.call(bits, function (el) {
-        var rects = el.getClientRects();
+        // getClientRects() on a block element gives ONE rect around the
+        // whole block, which reserves all the empty space beside short
+        // lines. A Range over its contents gives a rect per line
+        // fragment instead; merge the fragments that share a line and
+        // the gaps beside short lines open up.
+        var rects;
+        try {
+          var rng = document.createRange();
+          rng.selectNodeContents(el);
+          var frags = rng.getClientRects();
+          var rows = [];
+          for (var fi = 0; fi < frags.length; fi++) {
+            var fr = frags[fi];
+            if (!fr.width || !fr.height) continue;
+            // Group by line CENTRE, not by overlap: at display sizes a
+            // glyph box is taller than the line-height, so consecutive
+            // lines overlap and an overlap test collapses them all back
+            // into one block — which is the bug this is fixing.
+            var hit = null;
+            var fc = (fr.top + fr.bottom) / 2;
+            for (var ri = 0; ri < rows.length; ri++) {
+              var rc = (rows[ri].top + rows[ri].bottom) / 2;
+              var tol = Math.max(4, Math.min(fr.bottom - fr.top,
+                                             rows[ri].bottom - rows[ri].top) * 0.45);
+              if (Math.abs(fc - rc) < tol) { hit = rows[ri]; break; }
+            }
+            if (hit) {
+              hit.left = Math.min(hit.left, fr.left);
+              hit.right = Math.max(hit.right, fr.right);
+              hit.top = Math.min(hit.top, fr.top);
+              hit.bottom = Math.max(hit.bottom, fr.bottom);
+            } else {
+              rows.push({ left: fr.left, right: fr.right,
+                          top: fr.top, bottom: fr.bottom });
+            }
+          }
+          rects = rows.length ? rows : el.getClientRects();
+        } catch (err) {
+          rects = el.getClientRects();
+        }
+
         for (var i = 0; i < rects.length; i++) {
           var r = rects[i];
-          if (!r.width || !r.height) continue;
+          var rw = r.width !== undefined ? r.width : r.right - r.left;
+          var rh = r.height !== undefined ? r.height : r.bottom - r.top;
+          if (!rw || !rh) continue;
           p.x = r.left;  p.y = r.top;    var tl = p.matrixTransform(inv);
           p.x = r.right; p.y = r.bottom; var br = p.matrixTransform(inv);
           next.push({
