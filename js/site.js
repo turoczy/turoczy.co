@@ -136,7 +136,7 @@
     }
 
     // --- The matrix --------------------------------------------------
-    var MAX_DEGREE = 3;   // airy: no dot becomes a hairball
+    var MAX_DEGREE = 5;   // woven: every dot ends up joined several ways
     var dots = [], nodes = [], pairs = [];
     var degree = {}, used = {}, drawn = 0, target = 0;
     var hub = null, hubPairs = [], hubUsed = {}, hubDrawn = 0, hubTarget = 0;
@@ -185,7 +185,7 @@
         }
       }
 
-      target = Math.min(pairs.length, 54);
+      target = pairs.length;   // draw every edge the field allows
 
       // --- The hub: Rick, in the middle of it -------------------------
       // The avatar's centre, in the field's own coordinates. Lines leave
@@ -268,7 +268,7 @@
         ln.classList.add("settled");
         nodes[pick[0]].classList.remove("active");
         nodes[pick[0]].classList.add("linked");
-      }, 2900);
+      }, 1200);
       return true;
     }
 
@@ -323,7 +323,7 @@
           nodes[n].classList.remove("active");
           nodes[n].classList.add("linked");
         });
-      }, 2900);
+      }, 1200);
 
       return true;
     }
@@ -359,7 +359,7 @@
       }
 
       // Start with a few dots already on the table, nothing joined yet.
-      for (var s0 = 0; s0 < 5; s0++) reveal();
+      for (var s0 = 0; s0 < 14; s0++) reveal();
 
       var misses = 0;
       var tick = setInterval(function () {
@@ -368,12 +368,12 @@
         // Keep collecting ahead of connecting, so there is always
         // somewhere new for a line to go.
         var moreDots = shown.length < nodes.length;
-        var wantDot = moreDots && (shown.length < 8 || Math.random() < 0.45);
+        var wantDot = moreDots && Math.random() < 0.4;
 
         // Rick reaches out first; after that his lines are an
         // occasional thread through the ordinary dot-to-dot work.
         var wantHub = hub && hubDrawn < hubTarget &&
-                      (hubDrawn < 3 ? shown.length >= 3 : Math.random() < 0.3);
+                      (hubDrawn < 3 ? shown.length >= 3 : Math.random() < 0.25);
 
         var did = wantHub ? connectHub()
                           : (wantDot ? reveal() : connect());
@@ -382,7 +382,7 @@
 
         if (did) misses = 0;
         else if (++misses > 6) clearInterval(tick); // nothing left to do
-      }, 1500);
+      }, 420);
     }
   })();
 
