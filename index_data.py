@@ -23,7 +23,6 @@ GROUPS = [
  ("archival","OEN PubTalk, Portland &mdash; &ldquo;The Tech Startup Scene in Portland&rdquo;",""),
  ("2026","PubTalks Fireside Chat, Eugene &mdash; two decades of Oregon startups","https://www.tickettailor.com/events/collaborativeedo/2023310"),
  ("2025","FOSSY &mdash; &ldquo;Cooking Up Community: Build the Fire, Embrace Every Ingredient, Always Stir the Pot&rdquo;","https://2025.fossy.us/speaker/profile/486/index.html"),
- ("2008&ndash;09","PDX Web Innovators &mdash; Portland tech community retrospective and outlook","https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775"),
  ("multiple","Kobe, Japan &mdash; invited keynote on regional ecosystem development",""),
  ("multiple","Muscat, Oman &mdash; invited keynote on building on local assets instead of cloning Silicon Valley",""),
 ]),
@@ -108,7 +107,7 @@ GROUPS = [
  ("","<i>PIE: How to Meet</i> &mdash; 18 slides on how a founder meeting should actually go","https://www.slideshare.net/slideshow/pie-how-to-meet/16007393"),
  ("","<i>OEN Social Media 101</i> &mdash; 83 slides of workshop for the Oregon Entrepreneurs Network","https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914"),
  ("","<i>Tiny Startup Camp: Social Media</i> &mdash; 21 slides, the short version","https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387"),
- ("","<i>2008 Portland Tech Recap</i> &mdash; 64 slides, for PDX Web Innovators","https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775"),
+ ("2008&ndash;09","<i>2008 Portland Tech Recap</i> &mdash; 64 slides, for PDX Web Innovators","https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775"),
 ]),
 ("kick", "Kickstarter campaigns", [
  ("2016","<i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away","https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"),

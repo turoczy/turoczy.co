@@ -159,7 +159,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 255 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 254 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -177,7 +177,6 @@ Everything I can find a record of — 255 entries and counting. Some of it I rem
 - 2013 — [PSU Elevating Impact Summit — moderator, “Resilience: Uncensored”](https://www.pdx.edu/business/elevating-impact-2013)
 - 2012 — [SOBCon, Chicago — on building things people actually show up for](https://www.youtube.com/watch?v=s5e0sH3POlw)
 - 2009 — [InnoTech Conference — “To Blog Or Not to Blog”](https://www.slideshare.net/slideshow/20090422innotechblogornot/1361308)
-- 2008–09 — [PDX Web Innovators — Portland tech community retrospective and outlook](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
 - recurring — SXSW Interactive, Austin — SXSW Pitch judge and advisory board, and curator of the Portland Tech Meet Up
 - archival — OEN PubTalk, Portland — “The Tech Startup Scene in Portland”
 - multiple — Kobe, Japan — invited keynote on regional ecosystem development
@@ -260,6 +259,7 @@ Everything I can find a record of — 255 entries and counting. Some of it I rem
 - 2020 — [*The Startup Community Way*, Brad Feld and Ian Hathaway — on building complex, founder-led regional ecosystems. I turn up in this one too.](https://bookshop.org/p/books/the-startup-community-way-evolving-an-entrepreneurial-ecosystem-brad-feld/16653612?aid=128693&ean=9781119613602&listref=startup-books)
 - 2017 — [*Portland Makers: How to Build a Creative Community* — ポートランド・メイカーズ. Mitsuya Mazaki interviewed me in 2016; my words came out in Japanese, and later Korean.](https://book.gakugei-pub.co.jp/gakugei-book/9784761526429/)
 - 2016–17 — [*The PIE Cookbook* — everything we learned running PIE, written down and given away open source so any community could run its own accelerator. Kickstarted in 2016; the 0.9 beta landed in 2017.](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/)
+- 2008–09 — [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
 - [*Brand Signals* — 150 slides on positioning and the things a brand says without saying them](https://www.slideshare.net/slideshow/brand-signals/21148)
 - [*Inspiring Illogical Decisions* — 50 slides on conviction over incrementalism](https://www.slideshare.net/slideshow/inspiring-illogical-decisions/7124543)
 - [*A Series of Happy Accidents* — 48 slides on how Portland’s scene actually happened](https://www.slideshare.net/slideshow/a-series-of-happy-accidents/55054257)
@@ -268,7 +268,6 @@ Everything I can find a record of — 255 entries and counting. Some of it I rem
 - [*PIE: How to Meet* — 18 slides on how a founder meeting should actually go](https://www.slideshare.net/slideshow/pie-how-to-meet/16007393)
 - [*OEN Social Media 101* — 83 slides of workshop for the Oregon Entrepreneurs Network](https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914)
 - [*Tiny Startup Camp: Social Media* — 21 slides, the short version](https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387)
-- [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
 
 ### Kickstarter campaigns
 
