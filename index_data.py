@@ -108,6 +108,7 @@ GROUPS = [
  ("","<i>PIE: How to Meet</i> &mdash; 18 slides on how a founder meeting should actually go","https://www.slideshare.net/slideshow/pie-how-to-meet/16007393"),
  ("","<i>OEN Social Media 101</i> &mdash; 83 slides of workshop for the Oregon Entrepreneurs Network","https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914"),
  ("","<i>Tiny Startup Camp: Social Media</i> &mdash; 21 slides, the short version","https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387"),
+ ("","<i>2008 Portland Tech Recap</i> &mdash; 64 slides, for PDX Web Innovators","https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775"),
 ]),
 ("kick", "Kickstarter campaigns", [
  ("2016","<i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away","https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"),

@@ -159,7 +159,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 254 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 255 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -268,6 +268,7 @@ Everything I can find a record of — 254 entries and counting. Some of it I rem
 - [*PIE: How to Meet* — 18 slides on how a founder meeting should actually go](https://www.slideshare.net/slideshow/pie-how-to-meet/16007393)
 - [*OEN Social Media 101* — 83 slides of workshop for the Oregon Entrepreneurs Network](https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914)
 - [*Tiny Startup Camp: Social Media* — 21 slides, the short version](https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387)
+- [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
 
 ### Kickstarter campaigns
 
