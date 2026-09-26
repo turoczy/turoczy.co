@@ -119,20 +119,23 @@
     }
 
     function overType(x, y) {
-      for (var i = 0; i < boxes.length; i++) {
-        var b = boxes[i];
-        if (x > b.x1 && x < b.x2 && y > b.y1 && y < b.y2) return true;
-      }
-      return false;
+      return boxIndexAt(x, y) !== -1;
     }
 
-    // --- Ambient dots: texture, everywhere, never connected ----------
-    for (var i = 0; i < 40; i++) {
-      var c = document.createElementNS(NS, "circle");
-      c.setAttribute("cx", 30 + rnd() * (W - 60));
-      c.setAttribute("cy", 24 + rnd() * (H - 48));
-      c.setAttribute("r", 1.8 + rnd() * 1.8);
-      svg.appendChild(c);
+    // Which line of type a point falls in, or -1. A punctuation dot is
+    // allowed to thread out through its own line — that is where it
+    // lives — but never across any other.
+    function boxIndexAt(x, y) {
+      for (var i = 0; i < boxes.length; i++) {
+        var b = boxes[i];
+        if (x > b.x1 && x < b.x2 && y > b.y1 && y < b.y2) return i;
+      }
+      return -1;
+    }
+
+    function overTypeExcept(x, y, skip) {
+      var i = boxIndexAt(x, y);
+      return i !== -1 && i !== skip;
     }
 
     // --- The matrix --------------------------------------------------
@@ -140,7 +143,12 @@
     var dots = [], nodes = [], pairs = [];
     var degree = {}, used = {}, drawn = 0, target = 0;
     var hub = null, hubPairs = [], hubUsed = {}, hubDrawn = 0, hubTarget = 0;
+    var hubLinked = {};   // dots Rick has reached; these interconnect first
     var built = false;
+    var ellShown = {};   // the three ellipsis dots, by index
+    var ellDots2 = {};   // same set, visible to connectHub()
+    var ellBox = {};     // the line of type each punctuation dot sits in
+    var ellDots = {};    // punctuation dots, by index
 
     function build() {
       if (built) return;
@@ -148,28 +156,55 @@
       if (!boxes.length) return;
       built = true;
 
-      // Place the connectable dots only where there is room for them,
-      // spread out, so the matrix reaches the whole field instead of
-      // bunching up beside the headline.
+      // The ellipsis after "innovation" is three real dots. Put them in
+      // first, at the glyph's own position, so the sentence trails off
+      // straight into the network.
+      ellDots = {};
+      var glyphs = document.querySelectorAll(".hero .ell");
+      var ctm0 = svg.getScreenCTM();
+      if (glyphs.length && ctm0) {
+        var inv0 = ctm0.inverse();
+        var ep = svg.createSVGPoint();
+        Array.prototype.forEach.call(glyphs, function (g) {
+          var er = g.getBoundingClientRect();
+          if (!er.width) return;
+          var n = parseInt(g.getAttribute("data-dots"), 10) || 1;
+          for (var ei = 0; ei < n; ei++) {
+            ep.x = er.left + er.width * (ei + 0.5) / n;
+            ep.y = er.top + er.height * 0.78;   // sits on the baseline
+            var ec = ep.matrixTransform(inv0);
+            ellDots[dots.length] = true;
+            ellBox[dots.length] = boxIndexAt(ec.x, ec.y);
+            ellShown[dots.length] = true;
+            ellDots2[dots.length] = true;
+            dots.push({ x: ec.x, y: ec.y });
+          }
+        });
+      }
+
+      // Place the rest only where there is room for them, spread out, so
+      // the matrix reaches the whole field instead of bunching up beside
+      // the headline.
       var guard = 0;
-      while (dots.length < 38 && guard++ < 4000) {
+      while (dots.length < 120 && guard++ < 30000) {
         var x = 30 + rnd() * (W - 60);
         var y = 24 + rnd() * (H - 48);
         if (overType(x, y)) continue;
         var ok = true;
         for (var k = 0; k < dots.length; k++) {
-          if (Math.hypot(dots[k].x - x, dots[k].y - y) < 52) { ok = false; break; }
+          if (Math.hypot(dots[k].x - x, dots[k].y - y) < 28) { ok = false; break; }
         }
         if (ok) dots.push({ x: x, y: y });
       }
 
       // Created, but not yet collected — reveal() brings them in one by one.
-      nodes = dots.map(function (d) {
+      nodes = dots.map(function (d, di) {
         var n = document.createElementNS(NS, "circle");
         n.setAttribute("cx", d.x);
         n.setAttribute("cy", d.y);
         n.setAttribute("r", 3);
-        n.setAttribute("class", "node");
+        // The ellipsis dots are drawn by the typeface, not by us.
+        n.setAttribute("class", ellDots[di] ? "node ellnode" : "node");
         svg.appendChild(n);
         return n;
       });
@@ -178,8 +213,17 @@
         for (var b = a + 1; b < dots.length; b++) {
           var d = Math.hypot(dots[b].x - dots[a].x, dots[b].y - dots[a].y);
           // Long edges would have to cross the type to get anywhere.
-          if (d > 52 && d < 215 && !overType((dots[a].x + dots[b].x) / 2,
-                                             (dots[a].y + dots[b].y) / 2)) {
+          // A punctuation dot may thread out through the line it sits
+          // in — it belongs to that line — but not across any other.
+          var mx = (dots[a].x + dots[b].x) / 2;
+          var my = (dots[a].y + dots[b].y) / 2;
+          var skip = -1;
+          if (ellDots[a] && !ellDots[b]) skip = ellBox[a];
+          else if (ellDots[b] && !ellDots[a]) skip = ellBox[b];
+          else if (ellDots[a] && ellDots[b]) skip = ellBox[a];
+          var ok2 = skip === -1 ? !overType(mx, my)
+                                : !overTypeExcept(mx, my, skip);
+          if (d > 28 && d < 190 && ok2) {
             pairs.push([a, b, d]);
           }
         }
@@ -203,13 +247,19 @@
           hub = { x: hc.x, y: hc.y };
           for (var hi = 0; hi < dots.length; hi++) {
             var hd = Math.hypot(dots[hi].x - hub.x, dots[hi].y - hub.y);
+            // The ellipsis always gets a thread to Rick — the sentence
+            // trails off and lands on him.
+            if (ellDots[hi]) { hubPairs.push([hi, hd]); continue; }
             if (hd > 60 && hd < 430 &&
                 !overType((dots[hi].x + hub.x) / 2, (dots[hi].y + hub.y) / 2)) {
               hubPairs.push([hi, hd]);
             }
           }
-          hubPairs.sort(function (m, n) { return m[1] - n[1]; });
-          hubTarget = Math.min(hubPairs.length, 7);
+          hubPairs.sort(function (m, n) {
+            var me = ellDots[m[0]] ? 0 : 1, ne = ellDots[n[0]] ? 0 : 1;
+            return me - ne || m[1] - n[1];
+          });
+          hubTarget = Math.min(hubPairs.length, 16);
         }
       }
     }
@@ -233,6 +283,14 @@
     function connectHub() {
       if (!hub || hubDrawn >= hubTarget) return false;
       var pick = null;
+      // The ellipsis threads go first, in order; after that it is the
+      // usual scatter of whoever Rick happens to reach next.
+      for (var e = 0; e < hubPairs.length && !pick; e++) {
+        var ec = hubPairs[e];
+        if (!ellDots2[ec[0]] || hubUsed[ec[0]]) continue;
+        if ((degree[ec[0]] || 0) >= MAX_DEGREE) continue;
+        pick = ec;
+      }
       for (var t = 0; t < 60 && !pick; t++) {
         var cand = hubPairs[(Math.random() * hubPairs.length) | 0];
         if (!cand || hubUsed[cand[0]]) continue;
@@ -243,6 +301,7 @@
       if (!pick) return false;
 
       hubUsed[pick[0]] = true;
+      hubLinked[pick[0]] = true;
       degree[pick[0]] = (degree[pick[0]] || 0) + 1;
       hubDrawn++;
 
@@ -272,22 +331,139 @@
       return true;
     }
 
+    // Draw an edge between two dots, whatever the bookkeeping said.
+    function drawEdge(a, b, d) {
+      used[a + ":" + b] = true;
+      used[b + ":" + a] = true;
+      degree[a] = (degree[a] || 0) + 1;
+      degree[b] = (degree[b] || 0) + 1;
+
+      var p = dots[a], q = dots[b];
+      var ln = document.createElementNS(NS, "line");
+      ln.setAttribute("x1", p.x); ln.setAttribute("y1", p.y);
+      ln.setAttribute("x2", q.x); ln.setAttribute("y2", q.y);
+      ln.style.setProperty("--len", d);
+      svg.insertBefore(ln, svg.firstChild);
+
+      if (reduced) {
+        ln.classList.add("settled");
+        nodes[a].classList.add("linked");
+        nodes[b].classList.add("linked");
+        return;
+      }
+      nodes[a].classList.add("active");
+      nodes[b].classList.add("active");
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () { ln.classList.add("draw"); });
+      });
+      setTimeout(function () {
+        ln.classList.remove("draw");
+        ln.classList.add("settled");
+        [a, b].forEach(function (n) {
+          nodes[n].classList.remove("active");
+          nodes[n].classList.add("linked");
+        });
+      }, 1200);
+    }
+
+    // The punctuation dots connect to the field, full stop. No type
+    // test, no distance test, no waiting for the random draw to notice
+    // them: each one is wired to its nearest neighbours up front.
+    var GLYPH_LINKS = 4;
+    var glyphQueue = null;
+    function glyphSeed() {
+      if (!built) return false;
+      if (glyphQueue === null) {
+        glyphQueue = [];
+        Object.keys(ellDots).forEach(function (k) {
+          var i = +k;
+          var near = [];
+          for (var j = 0; j < dots.length; j++) {
+            if (j === i || ellDots[j]) continue;
+            near.push([j, Math.hypot(dots[j].x - dots[i].x, dots[j].y - dots[i].y)]);
+          }
+          near.sort(function (m, n) { return m[1] - n[1]; });
+          for (var g = 0; g < GLYPH_LINKS && g < near.length; g++) {
+            glyphQueue.push([i, near[g][0], near[g][1]]);
+          }
+        });
+      }
+      while (glyphQueue.length) {
+        var e = glyphQueue.shift();
+        if (used[e[0] + ":" + e[1]]) continue;
+        if (shown.indexOf(e[1]) === -1) { nodes[e[1]].classList.add("shown"); shown.push(e[1]); }
+        drawEdge(e[0], e[1], e[2]);
+        return true;
+      }
+      return false;
+    }
+
+    // Nobody left behind: any dot still short of two connections gets
+    // joined to its nearest reachable neighbour, degree caps ignored.
+    // This is the whole point of the picture, so it is not left to luck.
+    var MIN_DEGREE = 2;
+    function rescue() {
+      if (!built) return false;
+      for (var i = 0; i < dots.length; i++) {
+        if ((degree[i] || 0) >= MIN_DEGREE) continue;
+        var best = -1, bestD = Infinity;
+        for (var j = 0; j < dots.length; j++) {
+          if (j === i || used[i + ":" + j]) continue;
+          var d = Math.hypot(dots[j].x - dots[i].x, dots[j].y - dots[i].y);
+          if (d < 28 || d >= bestD) continue;
+          var mx = (dots[i].x + dots[j].x) / 2, my = (dots[i].y + dots[j].y) / 2;
+          var skip = ellDots[i] ? ellBox[i] : (ellDots[j] ? ellBox[j] : -1);
+          var blocked = skip === -1 ? overType(mx, my)
+                                    : overTypeExcept(mx, my, skip);
+          if (blocked) continue;
+          best = j; bestD = d;
+        }
+        if (best === -1) continue;
+        if (shown.indexOf(i) === -1) { nodes[i].classList.add("shown"); shown.push(i); }
+        if (shown.indexOf(best) === -1) { nodes[best].classList.add("shown"); shown.push(best); }
+        drawEdge(i, best, bestD);
+        return true;
+      }
+      return false;
+    }
+
     function connect() {
       if (!built || drawn >= target) return false;
 
+      // The point of the whole thing: once Rick has reached two people,
+      // they start finding each other. Those pairs go first; everything
+      // else fills in behind them.
       var pair = null;
-      for (var tries = 0; tries < 80 && !pair; tries++) {
+      function eligible(c) {
+        if (!c || used[c[0] + ":" + c[1]]) return false;
+        if (shown.indexOf(c[0]) === -1 || shown.indexOf(c[1]) === -1) return false;
+        if ((degree[c[0]] || 0) >= MAX_DEGREE) return false;
+        if ((degree[c[1]] || 0) >= MAX_DEGREE) return false;
+        return true;
+      }
+
+      for (var hp = 0; hp < 120 && !pair; hp++) {
+        var hc = pairs[(Math.random() * pairs.length) | 0];
+        if (eligible(hc) && hubLinked[hc[0]] && hubLinked[hc[1]]) pair = hc;
+      }
+      for (var tries = 0; tries < 120 && !pair; tries++) {
         var c = pairs[(Math.random() * pairs.length) | 0];
-        var key = c[0] + ":" + c[1];
-        if (used[key]) continue;
-        // only dots that have been collected can be connected
-        if (shown.indexOf(c[0]) === -1 || shown.indexOf(c[1]) === -1) continue;
-        if ((degree[c[0]] || 0) >= MAX_DEGREE) continue;
-        if ((degree[c[1]] || 0) >= MAX_DEGREE) continue;
-        pair = c;
-        used[key] = true;
+        if (eligible(c)) pair = c;
+      }
+      // Nothing at random: sweep for anything still legal, poorest dots
+      // first, so no dot is left hanging just because it got unlucky.
+      if (!pair) {
+        var best = null, bestDeg = 99;
+        for (var z = 0; z < pairs.length; z++) {
+          var cz = pairs[z];
+          if (!eligible(cz)) continue;
+          var dg = Math.min(degree[cz[0]] || 0, degree[cz[1]] || 0);
+          if (dg < bestDeg) { bestDeg = dg; best = cz; if (!dg) break; }
+        }
+        pair = best;
       }
       if (!pair) return false;
+      used[pair[0] + ":" + pair[1]] = true;
 
       degree[pair[0]] = (degree[pair[0]] || 0) + 1;
       degree[pair[1]] = (degree[pair[1]] || 0) + 1;
@@ -347,7 +523,9 @@
       if (reduced) {
         while (reveal()) {}
         while (connectHub()) {}
+        while (glyphSeed()) {}
         while (connect()) {}
+        while (rescue()) {}
         return;
       }
 
@@ -359,7 +537,12 @@
       }
 
       // Start with a few dots already on the table, nothing joined yet.
-      for (var s0 = 0; s0 < 14; s0++) reveal();
+      // The ellipsis is already part of the sentence, so it is already
+      // on the table.
+      for (var e0 = 0; e0 < dots.length; e0++) {
+        if (ellShown[e0]) { nodes[e0].classList.add("shown"); shown.push(e0); }
+      }
+      for (var s0 = 0; s0 < 22; s0++) reveal();
 
       var misses = 0;
       var tick = setInterval(function () {
@@ -368,21 +551,22 @@
         // Keep collecting ahead of connecting, so there is always
         // somewhere new for a line to go.
         var moreDots = shown.length < nodes.length;
-        var wantDot = moreDots && Math.random() < 0.4;
+        var wantDot = moreDots && Math.random() < 0.5;
 
         // Rick reaches out first; after that his lines are an
         // occasional thread through the ordinary dot-to-dot work.
         var wantHub = hub && hubDrawn < hubTarget &&
                       (hubDrawn < 3 ? shown.length >= 3 : Math.random() < 0.25);
 
-        var did = wantHub ? connectHub()
-                          : (wantDot ? reveal() : connect());
+        var did = wantHub ? connectHub() : glyphSeed();
+        if (!did) did = wantDot ? reveal() : connect();
         if (!did) did = wantDot ? connect() : reveal();
         if (!did) did = connectHub();
+        if (!did) did = rescue();   // finish the job for any stragglers
 
         if (did) misses = 0;
         else if (++misses > 6) clearInterval(tick); // nothing left to do
-      }, 420);
+      }, 240);
     }
   })();
 

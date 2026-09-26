@@ -318,6 +318,15 @@ strong { font-weight: 600; }
 }
 .hero-field svg { width: 100%; height: 100%; }
 
+/* The ellipsis after "innovation" is really three dots in the field.
+   The glyph itself stays exactly as the typeface draws it; js/site.js
+   parks three invisible, connectable nodes underneath it, so the
+   threads appear to leave from the ellipsis itself. */
+.hero-field circle.node.ellnode,
+.hero-field circle.node.ellnode.shown,
+.hero-field circle.node.ellnode.linked,
+.hero-field circle.node.ellnode.active { opacity: 0; r: 0; }
+
 /* Collecting, then connecting. Dots arrive one at a time and stay; some
    of them later get joined and stay joined. Nothing here is ever undone
    — the field only accumulates. */
@@ -434,6 +443,12 @@ strong { font-weight: 600; }
 }
 .hero h1 .quiet {
   color: var(--ink-quiet);
+}
+
+/* The ellipsis is a node in the field, not part of the quiet tail, so
+   it keeps the headline's own ink. */
+.hero h1 .quiet .ell {
+  color: var(--ink);
 }
 
 /* The standing tagline. It explains the dots, so it sits where the

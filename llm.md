@@ -2,7 +2,7 @@
 
 *More than mildly obsessed with connecting dots in the startup community*
 
-> Community, startups, innovation… all of the buzzwords
+> Community, startups, innovation…all of the buzzwords
 
 I write about startups, build community for a living, and get paid to stand on stages and say things that are — on a good day — useful. If you need a keynote or a brain deeply steeped in experimentation, you're in the right place.
 
