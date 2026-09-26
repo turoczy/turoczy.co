@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import io, re
 
+# build.py reads this, splices it into index.html, then derives llm.md.
+SECTION_OUT = '.index_section.html'
+
 SF='https://siliconflorist.com'
 YT='https://youtube.com/@turoczy_'
 SS='https://www.slideshare.net/turoczy'
@@ -328,5 +331,39 @@ L += ['',
       '    </div>',
       '  </section>']
 
-io.open('/tmp/index_section.html','w',encoding='utf-8').write("\n".join(L)+"\n")
+# A URL listed twice is the bug this file is most prone to: one artifact filed
+# under two groups, invisible until someone reads all 250 entries by hand. Fail
+# the build instead. Add a URL to ALLOW_DUPLICATE_URLS only when two entries
+# genuinely point at one page on purpose.
+ALLOW_DUPLICATE_URLS = set()
+
+
+def _check_duplicate_urls():
+    from html import unescape
+    import sys
+    seen = {}
+    for key, _, rows in GROUPS:
+        for _, what, url in rows:
+            if url:
+                seen.setdefault(url, []).append((key, what))
+    dupes = {u: w for u, w in seen.items()
+             if len(w) > 1 and u not in ALLOW_DUPLICATE_URLS}
+    if not dupes:
+        return
+    print('DUPLICATE URLS — %d:' % len(dupes), file=sys.stderr)
+    for u, where in dupes.items():
+        print('  %s' % u, file=sys.stderr)
+        for key, what in where:
+            print('      [%s] %s' % (key, unescape(re.sub(r'<[^>]+>', '', what))[:78]),
+                  file=sys.stderr)
+    print('\nDrop one, or add the URL to ALLOW_DUPLICATE_URLS if the repeat is'
+          ' deliberate.\nBefore you drop one: say out loud what detail each copy'
+          ' carries that the other\ndoes not (a year, a slide count, a fuller'
+          ' headline, a byline) and carry it across.', file=sys.stderr)
+    sys.exit(2)
+
+
+_check_duplicate_urls()
+
+io.open(SECTION_OUT,'w',encoding='utf-8').write("\n".join(L)+"\n")
 print('entries:', total, '| linked:', sum(1 for g in GROUPS for r in g[2] if r[2]))

@@ -13,13 +13,15 @@ cd ~/GitHub/turoczy.co
 python3 -m http.server 8787     # then open http://localhost:8787/
 ```
 
-**After ANY edit to `index.html`, `css/site.css`, or `js/site.js`, run:**
+**After ANY edit to `index.html`, `css/site.css`, `js/site.js`, or `index_data.py`, run:**
 
 ```bash
 python3 build.py
 ```
 
-It regenerates `llm.md` **and** re-stamps the `?v=` cache-buster on the CSS/JS tags. Without it Chrome silently serves a stale stylesheet — this bit us mid-session and made edits look like no-ops.
+It splices the generated `#index` section into `index.html` (from `index_data.py`), re-stamps the `?v=` cache-buster on the CSS/JS tags, **and** regenerates `llm.md`. Without it Chrome silently serves a stale stylesheet — this bit us mid-session and made edits look like no-ops.
+
+The splice used to be a manual copy-paste out of `/tmp`; it is wired into `build.py` as of 2026-09-26. Never hand-edit the markup inside the `#index` section — the next build overwrites it. See `CLAUDE.md`.
 
 ```bash
 python3 checklinks.py          # verify every outbound link

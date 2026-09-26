@@ -1,16 +1,28 @@
 #!/usr/bin/env python3
-"""Build llm.md from index.html.
+"""Build the page: splice the generated index, then derive llm.md.
 
-The page is the source of truth. Run this after editing index.html so the
-Markdown never drifts from what a person actually sees:
+Run this after editing index.html, css/site.css, js/site.js, or index_data.py:
 
     python3 build.py
+    python3 build.py --no-splice    # leave the #index section alone
+
+Two stages, in order:
+
+1. The #index section is GENERATED. index_data.py owns those entries; this
+   script runs it and splices the result into index.html. Never hand-edit the
+   markup between <section class="section" id="index"> and its close — the
+   next build overwrites it. Everything else in index.html is hand-written and
+   is the source of truth.
+2. llm.md is then derived from the spliced index.html, and the ?v= cache
+   buster is re-stamped, so the Markdown and the CSS can never go stale.
 """
 
 import html
 import io
 import os
 import re
+import subprocess
+import sys
 from html.parser import HTMLParser
 
 SRC = "index.html"
@@ -154,6 +166,63 @@ def render_body(node, lines):
             render_body(k, lines)
 
 
+GEN = "index_data.py"
+SECTION_ID = 'id="index"'
+
+
+def splice_index():
+    """Regenerate the #index section and paste it into index.html.
+
+    This used to be a manual copy-paste, which meant every index edit was two
+    steps and the second one was forgettable. index_data.py exits non-zero on
+    a duplicate URL, and that failure is allowed to stop the build.
+    """
+    run = subprocess.run([sys.executable, GEN], capture_output=True, text=True)
+    if run.returncode != 0:
+        sys.stderr.write(run.stdout + run.stderr)
+        sys.stderr.write("\n%s failed — index.html left untouched.\n" % GEN)
+        sys.exit(run.returncode)
+    print(run.stdout.strip())
+
+    # Read the generator's output path without importing it — importing would
+    # execute index_data.py a second time.
+    import ast
+    tree = ast.parse(io.open(GEN, encoding="utf-8").read())
+    out = next((n.value.value for n in tree.body
+                if isinstance(n, ast.Assign)
+                and getattr(n.targets[0], "id", None) == "SECTION_OUT"), None)
+    if not out:
+        sys.exit("%s no longer defines SECTION_OUT" % GEN)
+    if not os.path.exists(out):
+        sys.exit("%s did not write %s" % (GEN, out))
+    section = io.open(out, encoding="utf-8").read()
+
+    lines = io.open(SRC, encoding="utf-8").read().split("\n")
+    opens = [i for i, l in enumerate(lines)
+             if l.strip().startswith("<section") and SECTION_ID in l]
+    if len(opens) != 1:
+        sys.exit("expected exactly one %s section in %s, found %d"
+                 % (SECTION_ID, SRC, len(opens)))
+    start = opens[0]
+    indent = " " * (len(lines[start]) - len(lines[start].lstrip()))
+    close = indent + "</section>"
+    later = [i for i, l in enumerate(lines)
+             if i > start and l.strip().startswith("<section") and " id=" in l]
+    stop = later[0] if later else len(lines)
+    ends = [i for i in range(start, stop) if lines[i] == close]
+    if not ends:
+        sys.exit("could not find the close of the %s section" % SECTION_ID)
+    end = max(ends)
+
+    new = section.rstrip("\n").split("\n")
+    if new == lines[start:end + 1]:
+        print("#index unchanged")
+        return
+    io.open(SRC, "w", encoding="utf-8").write(
+        "\n".join(lines[:start] + new + lines[end + 1:]))
+    print("spliced #index — %d lines replaced %d" % (len(new), end - start + 1))
+
+
 def stamp_assets():
     """Bump the ?v= on css/js so a browser can't serve a stale stylesheet."""
     import time
@@ -167,6 +236,8 @@ def stamp_assets():
 
 
 def main():
+    if "--no-splice" not in sys.argv:
+        splice_index()
     stamp_assets()
     doc = io.open(SRC, encoding="utf-8").read()
     t = Tree()
