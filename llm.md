@@ -69,6 +69,7 @@ I also wrote a blog called “hypocritical” starting in 1998. We don’t need 
 
 - **TEDxPortland** — “An Introvert's Guide to Networking,” Keller Auditorium
 - **HubSpot INBOUND** — Bold Talks, “The Power of Humility”
+- **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [15,000+ views](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
 - **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
 - **Kauffman Foundation ESHIP Summit** — panels and working groups
 - **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
@@ -158,13 +159,14 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 257 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 255 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
 - 2026 — [PubTalks Fireside Chat, Eugene — two decades of Oregon startups](https://www.tickettailor.com/events/collaborativeedo/2023310)
 - 2025 — [FOSSY — “Cooking Up Community: Build the Fire, Embrace Every Ingredient, Always Stir the Pot”](https://2025.fossy.us/speaker/profile/486/index.html)
 - 2024 — [Silicon Forest Tech Summit — introducing the inaugural summit](https://www.youtube.com/watch?v=i3uXRPMEcGs)
+- 2022 — [Founder University — “How to Write Investor Updates,” plus the metrics that matter (CAC, LTV, churn)](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
 - 2020 — [Skoll World Forum — “Ecosystem Builders as Second Responders to Crisis”](https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/)
 - 2018 — [Columbia GSAPP — “Labs, Incubators, Colonies: Propeller and PIE,” a duet with Andrea Chen of Propeller, New Orleans. Wood Auditorium, cohosted with NEW INC.](https://www.youtube.com/watch?v=_kDXQk9p314)
 - 2018 — [TEDxPortland — “An Introvert’s Guide to Networking,” Keller Auditorium, 3,000+ people](https://www.youtube.com/watch?v=Cj98mr_wUA0)
@@ -187,8 +189,13 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - 2024– — [*The Long Con* — in person only, no video calls, no format](https://podcasts.apple.com/us/podcast/the-long-con-with-rick-turoczy/id1810923457)
 - 2023– — [*Portland, Oregon, Startup News* — weekly companion to Silicon Florist. Apple Podcasts, Spotify, Libsyn, YouTube](https://podcasts.apple.com/us/podcast/portland-oregon-startup-news-silicon-florist/id1711294699)
 - 2023– — [*Mildly Interesting People* — co-creator and co-host, with Cami Kaos](https://mildlyinterestingpeople.com/)
+- 2025 — [*AI Is Revolutionizing Startup Growth Opportunities Now*](https://www.youtube.com/watch?v=dhiYkJBzA5M)
+- 2025 — [*Securing Funding for Startups Beyond Silicon Valley*](https://www.youtube.com/watch?v=QgQlhhBr1eo)
 - 2020–21 — [*PIE Crowdcast* — live AMA series for founders during the pandemic](https://www.crowdcast.io/piepdx)
+- 2020 — [PIE AMA — *How to find investors in the Portland startup community*](https://www.youtube.com/watch?v=tuB_Sc09dmw)
+- 2020 — [PIE AMA — *How to join the Portland startup community*](https://www.youtube.com/watch?v=x3VeNA8oD60)
 - 2009–11 — [*memePDX* — co-host with Cami Kaos. Episodes live in the Silicon Florist archive.](https://siliconflorist.com/2010/02/25/memepdx-026-jive-software-ceo-dawn-foster-joins-meego-open-source-bridge-yahoo-twitter-ngmoco-raises-25-million/)
+- [Masterclasses on YouTube — starting a startup before building or funding, what founders are actually like, how to mentor, how to Portland startup community](https://youtube.com/@turoczy_)
 
 ### Podcasts and broadcasts, as a guest
 
@@ -212,7 +219,6 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - 2017 — [*PR Talk*, Veracity Agency — “Our Own Slice of PIE”, on the PIE Cookbook and accelerating failure](https://www.veracityagency.com/podcast/rick-turoczy/)
 - 2017 — [The Tech Academy — Tech Talk](https://www.youtube.com/watch?v=0jsOaMwchew)
 - 2015 — [*Launch Yourself*, Melissa Anzman — Session 28, on interacting more creatively](https://launchyourself.co/session28/)
-- 2012 — [*GeekWire* — “Four minutes on the train with… Portland startup guru Rick Turoczy of PIE”](https://www.geekwire.com/2012/minutes-train-rick-turoczy/)
 - 2011 — [*GeekWire Radio*, John Cook & Todd Bishop — sizing up the Seattle and Portland tech scenes](https://www.geekwire.com/2011/rewind-comparing-portland-seattle-tech-startup-scenes/)
 - archival — [*PushPull* — Episode 17, “Startin’ Stuff”](https://pushpull.me/episode/episode-17-startin-stuff)
 
@@ -235,7 +241,7 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - 2013 — [Business Wire — “The Silicon Florist Shares Some Secrets of Growing Good Relationships with Bloggers”](https://businesswired.wordpress.com/2013/01/24/the-silicon-florist-shares-some-secrets-of-growing-good-relationships-with-bloggers/)
 - 2013 — [*Willamette Week* — “TechfestNW 2013: Rick Turoczy”](https://www.wweek.com/portland/article-21061-techfestnw-2013-rick-turoczy.html)
 - 2013 — OPB *Think Out Loud* — “Northwest Technology Update.” The segment page is gone and nobody archived it.
-- 2012 — [*GeekWire* — “Four minutes on the train with… Rick Turoczy of PIE”](https://www.geekwire.com/2012/minutes-train-rick-turoczy/)
+- 2012 — [*GeekWire* — “Four minutes on the train with… Portland startup guru Rick Turoczy of PIE,” John Cook](https://www.geekwire.com/2012/minutes-train-rick-turoczy/)
 - 2012 — [*Willamette Week* — “Exclusive: New PIE Class Announced”](https://www.wweek.com/portland/blog-28909-exclusive-new-pie-class-announced.html)
 - 2011 — *The Oregonian* — Mike Rogoway on the launch of PIE
 - 2011 — [*GeekWire* — “Google tosses support behind the Portland Incubator Experiment”](https://www.geekwire.com/2011/google-tosses-support-portland-incubator-experiment/)
@@ -251,12 +257,7 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 ### Writing
 
 - 2026 — [*It Takes a Valley*, Anika Horn — a practitioner’s book about the people who build the ecosystems that make entrepreneurship possible. I turn up in it.](https://bookshop.org/p/books/it-takes-a-valley-how-to-build-thriving-entrepreneurial-ecosystems-that-transform-our-communities-anika-horn/24830809?aid=128693&ean=9798995796312&listref=startup-books)
-- 2025 — [*AI Is Revolutionizing Startup Growth Opportunities Now*](https://www.youtube.com/watch?v=dhiYkJBzA5M)
-- 2025 — [*Securing Funding for Startups Beyond Silicon Valley*](https://www.youtube.com/watch?v=QgQlhhBr1eo)
-- 2022 — [Founder University — *How to Write Investor Updates*, plus the metrics that matter (CAC, LTV, churn)](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
 - 2020 — [*The Startup Community Way*, Brad Feld and Ian Hathaway — on building complex, founder-led regional ecosystems. I turn up in this one too.](https://bookshop.org/p/books/the-startup-community-way-evolving-an-entrepreneurial-ecosystem-brad-feld/16653612?aid=128693&ean=9781119613602&listref=startup-books)
-- 2020 — [PIE AMA — *How to find investors in the Portland startup community*](https://www.youtube.com/watch?v=tuB_Sc09dmw)
-- 2020 — [PIE AMA — *How to join the Portland startup community*](https://www.youtube.com/watch?v=x3VeNA8oD60)
 - 2017 — [*Portland Makers: How to Build a Creative Community* — ポートランド・メイカーズ. Mitsuya Mazaki interviewed me in 2016; my words came out in Japanese, and later Korean.](https://book.gakugei-pub.co.jp/gakugei-book/9784761526429/)
 - 2016–17 — [*The PIE Cookbook* — everything we learned running PIE, written down and given away open source so any community could run its own accelerator. Kickstarted in 2016; the 0.9 beta landed in 2017.](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/)
 - [*Brand Signals* — 150 slides on positioning and the things a brand says without saying them](https://www.slideshare.net/slideshow/brand-signals/21148)
@@ -268,7 +269,6 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - [*OEN Social Media 101* — 83 slides of workshop for the Oregon Entrepreneurs Network](https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914)
 - [*Tiny Startup Camp: Social Media* — 21 slides, the short version](https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387)
 - [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
-- [Masterclasses on YouTube — starting a startup before building or funding, what founders are actually like, how to mentor, how to Portland startup community](https://youtube.com/@turoczy_)
 
 ### Kickstarter campaigns
 
@@ -367,7 +367,6 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - [*Betabook: The Portable Whiteboard for the Digital Age*](https://www.kickstarter.com/projects/betabook/betabook-the-portable-whiteboard-for-the-digital-a)
 - [*The uKeg Pressurized Growler for Fresh Beer*](https://www.kickstarter.com/projects/growlerwerks/the-ukegtm-pressurized-growler-for-fresh-beer)
 - [*Women’s Jeans in 400 Sizes : Made-to-Order by Qcut*](https://www.kickstarter.com/projects/crystalbeasley/womens-jeans-in-400-sizes-made-to-order-by-qcut)
-- [*Built Oregon*](https://www.kickstarter.com/projects/130336980/built-oregon)
 - [*Whiskey Elements: Customize your Whiskey in 24 hours*](https://www.kickstarter.com/projects/263766519/whiskey-elements-customize-your-whiskey-in-24-hour)
 - [*The Manual, Everywhere*](https://www.kickstarter.com/projects/goodonpaper/the-manual-everywhere)
 - [*Exhibition Kickstarter*](https://www.kickstarter.com/projects/ksouth/exhibition-kickstarter)
