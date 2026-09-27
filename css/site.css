@@ -635,6 +635,13 @@ strong { font-weight: 600; }
   font-size: clamp(1.15rem, 1rem + 0.7vw, 1.5rem);
   line-height: 1.28;
   quotes: "“" "”";
+  /* Hand-placed <br> can't cover the phone width range — at 390px it strands
+     a single word on its own line. balance evens the lines out at every
+     width, and it needs a block box to act on. A <br> still wins where one
+     carries meaning (the Boyd quote's sentence break): balance treats each
+     segment separately. Browsers without it fall back to normal wrapping. */
+  display: block;
+  text-wrap: balance;
 }
 
 .quotes cite {

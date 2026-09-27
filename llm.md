@@ -79,7 +79,7 @@ I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, P
 
 Other folks have described me more generously than I'd ever describe myself. So I'll let them.
 
-> "Rick is kind of a fairy godfather of thePortland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
+> "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
 
 > "The unofficial mayor of startup Portland."*Renny Gleeson*
 
