@@ -77,7 +77,7 @@ I also wrote a blog called “hypocritical” starting in 1998. We don’t need 
 
 I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, Portland Monthly, Oregon Business, and the cover of Willamette Week.
 
-I show up in other people's books, too. I'm one of the contributors to [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312), Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible. And Portland gets its mention in [*The Startup Community Way*](https://bookshop.org/a/128693/9781119613602), Brad Feld and Ian Hathaway's follow-up to *Startup Communities*.
+I show up in other people's books, too. I'm one of the contributors to [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312), Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible. And I wrote the PIE sidebar on embracing failure in [*The Startup Community Way*](https://bookshop.org/a/128693/9781119613602), Brad Feld and Ian Hathaway's follow-up to *Startup Communities*.
 
 Other folks have described me more generously than I'd ever describe myself. So I'll let them.
 
