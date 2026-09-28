@@ -90,7 +90,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;1,400&family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,400..700,0..100,0..1;1,9..144,400..700,0..100,0..1&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/site.css?v=202609281049">
+<link rel="stylesheet" href="css/site.css?v=202609270912">
 </head>
 <body>
 
@@ -357,9 +357,6 @@
           <li><span class="cv-org">Oregon Story Board</span><span class="cv-role">Cofounder &amp; advisor</span><span class="cv-when">2012 &ndash; 2018</span></li>
           <li><span class="cv-org">Technology Association of Oregon</span><span class="cv-role">Board member</span><span class="cv-when">2011 &ndash; 2017</span></li>
           <li><span class="cv-org">Oregon Entrepreneurs Network</span><span class="cv-role">Advisory board member</span><span class="cv-when">2011 &ndash; 2014</span></li>
-          <li><span class="cv-org">Reportedly</span><span class="cv-role">Cofounder</span><span class="cv-when">2014</span></li>
-          <li><span class="cv-org">twurl</span><span class="cv-role">Cofounder</span><span class="cv-when">2008 &ndash; 2010</span></li>
-          <li><span class="cv-org">Kumquat</span><span class="cv-role">Cofounder</span><span class="cv-when">2007 &ndash; 2008</span></li>
         </ul>
 
         <h3 class="cv-group">Before all this</h3>
@@ -391,7 +388,7 @@
     <div class="section-grid">
       <div class="section-head"><h2>Index</h2></div>
       <div class="section-body">
-        <p class="lede">Everything I can find a record of &mdash; 257 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.</p>
+        <p class="lede">Everything I can find a record of &mdash; 254 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.</p>
 
         <div class="filters" role="group" aria-label="Filter the index">
           <button type="button" class="chip" data-filter="all" aria-pressed="true">Everything</button>
@@ -399,9 +396,9 @@
           <button type="button" class="chip" data-filter="show pod" aria-pressed="false">Shows</button>
           <button type="button" class="chip" data-filter="press" aria-pressed="false">Press</button>
           <button type="button" class="chip" data-filter="deck" aria-pressed="false">Writing</button>
-          <button type="button" class="chip" data-filter="invest ksback" aria-pressed="false">Investments</button>
+          <button type="button" class="chip" data-filter="kick ksback" aria-pressed="false">Kickstarters</button>
+          <button type="button" class="chip" data-filter="invest" aria-pressed="false">Investments</button>
           <button type="button" class="chip" data-filter="org" aria-pressed="false">Organizing</button>
-          <button type="button" class="chip" data-filter="built" aria-pressed="false">Built</button>
         </div>
 
         <section class="ix-group" data-group="talk">
@@ -527,19 +524,11 @@
           </ul>
         </section>
 
-        <section class="ix-group" data-group="invest">
-          <h3 class="ix-title">Things I&rsquo;ve invested in</h3>
+        <section class="ix-group" data-group="kick">
+          <h3 class="ix-title">Kickstarter campaigns</h3>
           <ul class="ix">
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://www.airship.com/"><i>Airship</i> (neé Urban Airship) &mdash; Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://backstagecapital.com/"><i>Backstage Capital</i> &mdash; Arlan Hamilton&rsquo;s fund backing founders who are underrepresented, underestimated, and usually overlooked</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://wefunder.com/bisonvp"><i>Bison Venture Partners</i> &mdash; Garry Johnson III&rsquo;s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://wefunder.com/calmfund"><i>Calm Company Fund</i> &mdash; Tyler Tringas&rsquo;s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://customer.io/"><i>Customer.io</i> &mdash; Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://freelandspirits.com/"><i>Freeland Spirits</i> &mdash; Jill Kuehler&rsquo;s women-owned Portland distillery, where the grain is grown on Cory Carman&rsquo;s Oregon ranch and everything else starts from scratch</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://www.graze.social/"><i>Graze</i> &mdash; feed-building on Bluesky&rsquo;s open social protocol, so the algorithm is yours instead of somebody else&rsquo;s</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://letsriff.com/"><i>Riff</i> &mdash; Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://thesportsbraofficial.com/"><i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea</a></span></li>
-            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://tenderlovingempire.com/"><i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand</a></span></li>
+            <li><span class="ix-yr">2016</span><span class="ix-what"><a class="ix-entry" href="https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"><i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away</a></span></li>
+            <li><span class="ix-yr">2014</span><span class="ix-what"><a class="ix-entry" href="https://www.kickstarter.com/projects/130336980/built-oregon/"><i>Built Oregon</i> &mdash; funding a statewide storytelling project for Oregon&rsquo;s consumer product founders, because nobody was telling those stories either</a></span></li>
           </ul>
         </section>
 
@@ -685,6 +674,22 @@
           </ul>
         </section>
 
+        <section class="ix-group" data-group="invest">
+          <h3 class="ix-title">Things I&rsquo;ve invested in</h3>
+          <ul class="ix">
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://www.airship.com/"><i>Airship</i> (neé Urban Airship) &mdash; Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://backstagecapital.com/"><i>Backstage Capital</i> &mdash; Arlan Hamilton&rsquo;s fund backing founders who are underrepresented, underestimated, and usually overlooked</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://wefunder.com/bisonvp"><i>Bison Venture Partners</i> &mdash; Garry Johnson III&rsquo;s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://wefunder.com/calmfund"><i>Calm Company Fund</i> &mdash; Tyler Tringas&rsquo;s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://customer.io/"><i>Customer.io</i> &mdash; Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://freelandspirits.com/"><i>Freeland Spirits</i> &mdash; Jill Kuehler&rsquo;s women-owned Portland distillery, where the grain is grown on Cory Carman&rsquo;s Oregon ranch and everything else starts from scratch</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://www.graze.social/"><i>Graze</i> &mdash; feed-building on Bluesky&rsquo;s open social protocol, so the algorithm is yours instead of somebody else&rsquo;s</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://letsriff.com/"><i>Riff</i> &mdash; Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://thesportsbraofficial.com/"><i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea</a></span></li>
+            <li><span class="ix-yr">&nbsp;</span><span class="ix-what"><a class="ix-entry" href="https://tenderlovingempire.com/"><i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand</a></span></li>
+          </ul>
+        </section>
+
         <section class="ix-group" data-group="org">
           <h3 class="ix-title">Organizing</h3>
           <ul class="ix">
@@ -696,22 +701,11 @@
             <li><span class="ix-yr">2014&ndash;20</span><span class="ix-what"><a class="ix-entry" href="https://siliconflorist.com/2014/10/14/portland-startup-week-design-week-portland-startup-awesomeness/"><i>Portland Startup Week</i> &mdash; started it and ran the programming, then handed it off in 2020. It outlasted me by six years and survived a pandemic before being retired in 2026 in favor of a statewide Oregon Startup Week.</a></span></li>
             <li><span class="ix-yr">2019</span><span class="ix-what"><a class="ix-entry" href="https://siliconflorist.com/2019/11/14/revisiting-the-startup-champions-network-portland-visit/"><i>Startup Champions Network Spring Summit</i> &mdash; lead organizer and local host, with PIE. Ecosystem builders from around the country spent 2.5 days in Portland, March 19&ndash;21, with panels at the Wacom Experience Center, a public reception at Tilt on East Burnside, and site visits across the city.</a></span></li>
             <li><span class="ix-yr">2016</span><span class="ix-what"><a class="ix-entry" href="https://siliconflorist.com/2016/05/24/escalated-quickly-join-free-portland-community-job-fair-june-1-falcon-building/"><i>Intel Outside</i> &mdash; lead organizer. A free community job fair at the Falcon Building for the ~800 Portlanders laid off by Intel, built from a blog post to nearly 200 supporting companies in four weeks, with no budget.</a></span></li>
-            <li><span class="ix-yr">2016</span><span class="ix-what"><a class="ix-entry" href="https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"><i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away</a></span></li>
-            <li><span class="ix-yr">2014</span><span class="ix-what"><a class="ix-entry" href="https://www.kickstarter.com/projects/130336980/built-oregon/"><i>Built Oregon</i> &mdash; funding a statewide storytelling project for Oregon&rsquo;s consumer product founders, because nobody was telling those stories either</a></span></li>
             <li><span class="ix-yr">2013</span><span class="ix-what"><i>Hack @ Hayward</i> &mdash; Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.</span></li>
             <li><span class="ix-yr">2012</span><span class="ix-what"><a class="ix-entry" href="https://vimeo.com/44539955"><i>Portland Narrative Hack</i> &mdash; a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.</a></span></li>
             <li><span class="ix-yr">2009&ndash;10</span><span class="ix-what"><a class="ix-entry" href="https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/"><i>30 Hour Day</i> &mdash; a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.</a></span></li>
             <li><span class="ix-yr">2008&ndash;09</span><span class="ix-what"><a class="ix-entry" href="https://web.archive.org/web/20090305100212/http://opensourcebridge.org/"><i>Open Source Bridge</i> &mdash; marketing lead for the first one, after OSCON left town</a></span></li>
             <li><span class="ix-yr">multiple</span><span class="ix-what"><a class="ix-entry" href="https://www.piepdx.com/"><i>PIE Demo Days</i> &mdash; the day each cohort graduates into the ecosystem. Bittersweet every time.</a></span></li>
-          </ul>
-        </section>
-
-        <section class="ix-group" data-group="built">
-          <h3 class="ix-title">Things I built</h3>
-          <ul class="ix">
-            <li><span class="ix-yr">2014</span><span class="ix-what"><a class="ix-entry" href="https://www.reportedly.co/"><i>Reportedly</i> &mdash; a tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.</a></span></li>
-            <li><span class="ix-yr">2008&ndash;10</span><span class="ix-what"><a class="ix-entry" href="http://web.archive.org/web/20080325033548/http://twurl.cc/"><i>twurl</i> &mdash; a URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.</a></span></li>
-            <li><span class="ix-yr">2007&ndash;08</span><span class="ix-what"><a class="ix-entry" href="https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/"><i>Kumquat</i> &mdash; built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn&rsquo;t make it.</a></span></li>
           </ul>
         </section>
 
@@ -774,6 +768,6 @@
 
 </div>
 
-<script src="js/site.js?v=202609281049"></script>
+<script src="js/site.js?v=202609270912"></script>
 </body>
 </html>

@@ -134,6 +134,9 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 - Oregon Story Board — Cofounder & advisor — 2012 – 2018
 - Technology Association of Oregon — Board member — 2011 – 2017
 - Oregon Entrepreneurs Network — Advisory board member — 2011 – 2014
+- Reportedly — Cofounder — 2014
+- twurl — Cofounder — 2008 – 2010
+- Kumquat — Cofounder — 2007 – 2008
 
 ### Before all this
 
@@ -159,7 +162,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 254 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 257 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -269,10 +272,18 @@ Everything I can find a record of — 254 entries and counting. Some of it I rem
 - [*OEN Social Media 101* — 83 slides of workshop for the Oregon Entrepreneurs Network](https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914)
 - [*Tiny Startup Camp: Social Media* — 21 slides, the short version](https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387)
 
-### Kickstarter campaigns
+### Things I’ve invested in
 
-- 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
-- 2014 — [*Built Oregon* — funding a statewide storytelling project for Oregon’s consumer product founders, because nobody was telling those stories either](https://www.kickstarter.com/projects/130336980/built-oregon/)
+- [*Airship* (neé Urban Airship) — Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M](https://www.airship.com/)
+- [*Backstage Capital* — Arlan Hamilton’s fund backing founders who are underrepresented, underestimated, and usually overlooked](https://backstagecapital.com/)
+- [*Bison Venture Partners* — Garry Johnson III’s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own](https://wefunder.com/bisonvp)
+- [*Calm Company Fund* — Tyler Tringas’s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too](https://wefunder.com/calmfund)
+- [*Customer.io* — Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute](https://customer.io/)
+- [*Freeland Spirits* — Jill Kuehler’s women-owned Portland distillery, where the grain is grown on Cory Carman’s Oregon ranch and everything else starts from scratch](https://freelandspirits.com/)
+- [*Graze* — feed-building on Bluesky’s open social protocol, so the algorithm is yours instead of somebody else’s](https://www.graze.social/)
+- [*Riff* — Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go](https://letsriff.com/)
+- [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
+- [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
 ### Kickstarter investments
 
@@ -413,19 +424,6 @@ Everything I can find a record of — 254 entries and counting. Some of it I rem
 - [*A New Season of Destination DIY*](https://www.kickstarter.com/projects/destinationdiy/a-new-season-of-destination-diy)
 - [*RDTN.org: Radiation Detection Hardware Network in Japan*](https://www.kickstarter.com/projects/1038658656/rdtnorg-radiation-detection-hardware-network-in-ja)
 
-### Things I’ve invested in
-
-- [*Airship* (neé Urban Airship) — Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M](https://www.airship.com/)
-- [*Backstage Capital* — Arlan Hamilton’s fund backing founders who are underrepresented, underestimated, and usually overlooked](https://backstagecapital.com/)
-- [*Bison Venture Partners* — Garry Johnson III’s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own](https://wefunder.com/bisonvp)
-- [*Calm Company Fund* — Tyler Tringas’s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too](https://wefunder.com/calmfund)
-- [*Customer.io* — Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute](https://customer.io/)
-- [*Freeland Spirits* — Jill Kuehler’s women-owned Portland distillery, where the grain is grown on Cory Carman’s Oregon ranch and everything else starts from scratch](https://freelandspirits.com/)
-- [*Graze* — feed-building on Bluesky’s open social protocol, so the algorithm is yours instead of somebody else’s](https://www.graze.social/)
-- [*Riff* — Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go](https://letsriff.com/)
-- [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
-- [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
-
 ### Organizing
 
 - 2023– — [*Pitch Black* — production crew. Stephen Green’s pitch competition for Black founders, and the best pitch event in Portland. Every dollar goes to the founders as non-dilutive grants.](https://www.pitchblack.org/)
@@ -436,11 +434,19 @@ Everything I can find a record of — 254 entries and counting. Some of it I rem
 - 2014–20 — [*Portland Startup Week* — started it and ran the programming, then handed it off in 2020. It outlasted me by six years and survived a pandemic before being retired in 2026 in favor of a statewide Oregon Startup Week.](https://siliconflorist.com/2014/10/14/portland-startup-week-design-week-portland-startup-awesomeness/)
 - 2019 — [*Startup Champions Network Spring Summit* — lead organizer and local host, with PIE. Ecosystem builders from around the country spent 2.5 days in Portland, March 19–21, with panels at the Wacom Experience Center, a public reception at Tilt on East Burnside, and site visits across the city.](https://siliconflorist.com/2019/11/14/revisiting-the-startup-champions-network-portland-visit/)
 - 2016 — [*Intel Outside* — lead organizer. A free community job fair at the Falcon Building for the ~800 Portlanders laid off by Intel, built from a blog post to nearly 200 supporting companies in four weeks, with no budget.](https://siliconflorist.com/2016/05/24/escalated-quickly-join-free-portland-community-job-fair-june-1-falcon-building/)
+- 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
+- 2014 — [*Built Oregon* — funding a statewide storytelling project for Oregon’s consumer product founders, because nobody was telling those stories either](https://www.kickstarter.com/projects/130336980/built-oregon/)
 - 2013 — *Hack @ Hayward* — Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.
 - 2012 — [*Portland Narrative Hack* — a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.](https://vimeo.com/44539955)
 - 2009–10 — [*30 Hour Day* — a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.](https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/)
 - 2008–09 — [*Open Source Bridge* — marketing lead for the first one, after OSCON left town](https://web.archive.org/web/20090305100212/http://opensourcebridge.org/)
 - multiple — [*PIE Demo Days* — the day each cohort graduates into the ecosystem. Bittersweet every time.](https://www.piepdx.com/)
+
+### Things I built
+
+- 2014 — [*Reportedly* — a tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.](https://www.reportedly.co/)
+- 2008–10 — [*twurl* — a URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.](http://web.archive.org/web/20080325033548/http://twurl.cc/)
+- 2007–08 — [*Kumquat* — built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn’t make it.](https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/)
 
 Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subject=You%20forgot%20one) and I’ll add it.
 
