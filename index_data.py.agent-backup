@@ -281,11 +281,6 @@ GROUPS = [
  ("2012","<i>Portland Narrative Hack</i> &mdash; a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.","https://vimeo.com/44539955"),
  ("2017&ndash;","<i>Built Festival</i> &mdash; Built Oregon&rsquo;s annual gathering of the state&rsquo;s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.","https://www.builtoregon.com/"),
 ]),
-("built", "Things I built", [
- ("2014","<i>Reportedly</i> &mdash; cofounded with Justin Thiele. A tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.","https://www.reportedly.co/"),
- ("2008&ndash;10","<i>twurl</i> &mdash; cofounded with Toby Lucich. A URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.","http://web.archive.org/web/20080325033548/http://twurl.cc/"),
- ("2007&ndash;08","<i>Kumquat</i> &mdash; cofounded with Toby Lucich, built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn&rsquo;t make it.","https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/"),
-]),
 ]
 
 def end_year(t):
@@ -313,7 +308,7 @@ L = ['  <section class="section" id="index">',
      '',
      '        <div class="filters" role="group" aria-label="Filter the index">',
      '          <button type="button" class="chip" data-filter="all" aria-pressed="true">Everything</button>']
-for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Writing"),("kick ksback","Kickstarters"),("invest","Investments"),("org","Organizing"),("built","Built")]:
+for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Writing"),("kick ksback","Kickstarters"),("invest","Investments"),("org","Organizing")]:
     L.append('          <button type="button" class="chip" data-filter="%s" aria-pressed="false">%s</button>' % (key, lab))
 L.append('        </div>')
 

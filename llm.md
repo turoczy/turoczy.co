@@ -134,6 +134,9 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 - Oregon Story Board — Cofounder & advisor — 2012 – 2018
 - Technology Association of Oregon — Board member — 2011 – 2017
 - Oregon Entrepreneurs Network — Advisory board member — 2011 – 2014
+- Reportedly — Cofounder — 2014
+- twurl — Cofounder — 2008 – 2010
+- Kumquat — Cofounder — 2007 – 2008
 
 ### Before all this
 
@@ -159,7 +162,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 254 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 257 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -441,6 +444,12 @@ Everything I can find a record of — 254 entries and counting. Some of it I rem
 - 2009–10 — [*30 Hour Day* — a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.](https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/)
 - 2008–09 — [*Open Source Bridge* — marketing lead for the first one, after OSCON left town](https://web.archive.org/web/20090305100212/http://opensourcebridge.org/)
 - multiple — [*PIE Demo Days* — the day each cohort graduates into the ecosystem. Bittersweet every time.](https://www.piepdx.com/)
+
+### Things I built
+
+- 2014 — [*Reportedly* — cofounded with Justin Thiele. A tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.](https://www.reportedly.co/)
+- 2008–10 — [*twurl* — cofounded with Toby Lucich. A URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.](http://web.archive.org/web/20080325033548/http://twurl.cc/)
+- 2007–08 — [*Kumquat* — cofounded with Toby Lucich, built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn’t make it.](https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/)
 
 Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subject=You%20forgot%20one) and I’ll add it.
 
