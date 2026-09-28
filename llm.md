@@ -27,6 +27,32 @@ Sometimes people pay me to help. That still surprises me.
 
 ---
 
+## Receipts
+
+- **TEDxPortland** — “An Introvert's Guide to Networking,” Keller Auditorium
+- **HubSpot INBOUND** — Bold Talks, “The Power of Humility”
+- **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [15,000+ views](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
+- **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
+- **Kauffman Foundation ESHIP Summit** — panels and working groups
+- **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
+- **Kobe, Japan** and **Muscat, Oman** — invited keynotes on building a community you actually have
+- ***The Startup Community Way*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*, [the book](https://bookshop.org/a/128693/9781119613602)
+- ***It Takes a Valley*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible, [the book](https://bookshop.org/a/128693/9798995796312)
+
+I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, Portland Monthly, Oregon Business, and the cover of Willamette Week.
+
+Other folks have described me more generously than I'd ever describe myself. So I'll let them.
+
+> "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
+
+> "The unofficial mayor of startup Portland."*Renny Gleeson*
+
+> "The Don Quixote of Portland tech.There is only one Rick."*Dylan Boyd*
+
+The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The Portland Business Journal gave me Small Business Advocate of the Year. Mara also once called me Yoda, which I've decided to interpret as a comment on the wisdom and not the age.
+
+---
+
 ## Talking
 
 I'm an introvert who has spent three decades in rooms full of people. So I've had to get very deliberate about how any of this works — and it turns out the deliberate part is the useful part.
@@ -62,32 +88,6 @@ I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-ini
 Before all of that, I wrote a few hundred posts for [**ReadWriteWeb**](https://web.archive.org/web/20111025090628/http://www.readwriteweb.com/archives/author/rick-turoczy-1page2.php) and [**More than a Living**](https://morethanaliving.com/author/turoczy/), back when tech blogging was a thing you could just decide to do.
 
 I also wrote a blog called “hypocritical” starting in 1998. We don’t need to talk about that. (But if you’re curious, it’s still out there in the [Wayback Machine](https://web.archive.org/web/20061208154323/http://www.hypocritical.com/blog).)
-
----
-
-## Receipts
-
-- **TEDxPortland** — “An Introvert's Guide to Networking,” Keller Auditorium
-- **HubSpot INBOUND** — Bold Talks, “The Power of Humility”
-- **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [15,000+ views](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
-- **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
-- **Kauffman Foundation ESHIP Summit** — panels and working groups
-- **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
-- **Kobe, Japan** and **Muscat, Oman** — invited keynotes on building a community you actually have
-
-I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, Portland Monthly, Oregon Business, and the cover of Willamette Week.
-
-I show up in other people's books, too. I'm one of the contributors to [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312), Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible. And I wrote the PIE sidebar on embracing failure in [*The Startup Community Way*](https://bookshop.org/a/128693/9781119613602), Brad Feld and Ian Hathaway's follow-up to *Startup Communities*.
-
-Other folks have described me more generously than I'd ever describe myself. So I'll let them.
-
-> "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
-
-> "The unofficial mayor of startup Portland."*Renny Gleeson*
-
-> "The Don Quixote of Portland tech.There is only one Rick."*Dylan Boyd*
-
-The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The Portland Business Journal gave me Small Business Advocate of the Year. Mara also once called me Yoda, which I've decided to interpret as a comment on the wisdom and not the age.
 
 ---
 
