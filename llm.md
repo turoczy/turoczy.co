@@ -50,6 +50,14 @@ Other folks have described me more generously than I'd ever describe myself. So 
 
 > "The Don Quixote of Portland tech.There is only one Rick."*Dylan Boyd*
 
+> "Most of the time I'd rather just do everything myself, but if I have the option to work with Rick then I always know the project will turn out better."*Marshall Kirkpatrick*
+
+> "Every project Rick touched was better for it."*Amy Winkelman*
+
+> "I would work with Rick again in a heartbeat."*Leslie Constans*
+
+> "Rick was a tremendous asset on the Microsoft collateral project we worked on together."*Melanie Morris*
+
 The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The Portland Business Journal gave me Small Business Advocate of the Year. Mara also once called me Yoda, which I've decided to interpret as a comment on the wisdom and not the age.
 
 ---
