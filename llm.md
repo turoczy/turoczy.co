@@ -448,7 +448,7 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 ### Things I built
 
 - 2014 — [*Reportedly* — cofounded with Justin Thiele. A tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.](https://www.reportedly.co/)
-- 2008–10 — [*twurl* — cofounded with Toby Lucich. A URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.](http://web.archive.org/web/20080325033548/http://twurl.cc/)
+- 2008–10 — [*twurl* — cofounded with Toby Lucich. A URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired by Nokia. I never promoted it once and people used it anyway.](http://web.archive.org/web/20080325033548/http://twurl.cc/)
 - 2007–08 — [*Kumquat* — cofounded with Toby Lucich, built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn’t make it.](https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/)
 
 Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subject=You%20forgot%20one) and I’ll add it.
