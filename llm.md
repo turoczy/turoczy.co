@@ -29,15 +29,15 @@ Sometimes people pay me to help. That still surprises me.
 
 ## Receipts
 
-- **TEDxPortland** — “An Introvert's Guide to Networking,” Keller Auditorium
+- **TEDxPortland** — “An Introvert's Guide to Networking,” [723,000+ views](https://www.youtube.com/watch?v=Cj98mr_wUA0)
+- ***The Startup Community Way*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*, [the book](https://bookshop.org/a/128693/9781119613602)
+- ***It Takes a Valley*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible, [the book](https://bookshop.org/a/128693/9798995796312)
 - **HubSpot INBOUND** — Bold Talks, “The Power of Humility”
-- **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [15,000+ views](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
+- **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [watch](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
 - **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
 - **Kauffman Foundation ESHIP Summit** — panels and working groups
 - **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
 - **Kobe, Japan** and **Muscat, Oman** — invited keynotes on building a community you actually have
-- ***The Startup Community Way*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*, [the book](https://bookshop.org/a/128693/9781119613602)
-- ***It Takes a Valley*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible, [the book](https://bookshop.org/a/128693/9798995796312)
 
 I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, Portland Monthly, Oregon Business, and the cover of Willamette Week.
 
