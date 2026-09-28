@@ -282,9 +282,9 @@ GROUPS = [
  ("2017&ndash;","<i>Built Festival</i> &mdash; Built Oregon&rsquo;s annual gathering of the state&rsquo;s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.","https://www.builtoregon.com/"),
 ]),
 ("built", "Things I built", [
- ("2014","<i>Reportedly</i> &mdash; cofounded with Justin Thiele. A tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.","https://www.reportedly.co/"),
- ("2008&ndash;10","<i>twurl</i> &mdash; cofounded with Toby Lucich. A URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired by Nokia. I never promoted it once and people used it anyway.","http://web.archive.org/web/20080325033548/http://twurl.cc/"),
- ("2007&ndash;08","<i>Kumquat</i> &mdash; cofounded with Toby Lucich, built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn&rsquo;t make it.","https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/"),
+ ("2014","<i>Reportedly</i> &mdash; a tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.","https://www.reportedly.co/"),
+ ("2008&ndash;10","<i>twurl</i> &mdash; a URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.","http://web.archive.org/web/20080325033548/http://twurl.cc/"),
+ ("2007&ndash;08","<i>Kumquat</i> &mdash; built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn&rsquo;t make it.","https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/"),
 ]),
 ]
 
