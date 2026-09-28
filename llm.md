@@ -30,8 +30,8 @@ Sometimes people pay me to help. That still surprises me.
 ## Receipts
 
 - **TEDxPortland** — “An Introvert's Guide to Networking,” [723,000+ views](https://www.youtube.com/watch?v=Cj98mr_wUA0)
-- ***The Startup Community Way*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*, [the book](https://bookshop.org/a/128693/9781119613602)
-- ***It Takes a Valley*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible, [the book](https://bookshop.org/a/128693/9798995796312)
+- ***[The Startup Community Way](https://bookshop.org/a/128693/9781119613602)*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*
+- ***[It Takes a Valley](https://bookshop.org/a/128693/9798995796312)*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible
 - **HubSpot INBOUND** — Bold Talks, “The Power of Humility”
 - **Founder University** — “How to Write Investor Updates,” plus the metrics that matter, [watch](https://www.youtube.com/watch?v=dgz-Ud4fq6w)
 - **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
