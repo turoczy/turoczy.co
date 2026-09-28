@@ -285,11 +285,6 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
 - [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
-### Kickstarter campaigns
-
-- 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
-- 2014 — [*Built Oregon* — funding a statewide storytelling project for Oregon’s consumer product founders, because nobody was telling those stories either](https://www.kickstarter.com/projects/130336980/built-oregon/)
-
 ### Kickstarter investments
 
 - [*Hasaan Hates Portland*](https://www.kickstarter.com/projects/mischawebley/hasaan-hates-portland)
@@ -439,6 +434,8 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - 2014–20 — [*Portland Startup Week* — started it and ran the programming, then handed it off in 2020. It outlasted me by six years and survived a pandemic before being retired in 2026 in favor of a statewide Oregon Startup Week.](https://siliconflorist.com/2014/10/14/portland-startup-week-design-week-portland-startup-awesomeness/)
 - 2019 — [*Startup Champions Network Spring Summit* — lead organizer and local host, with PIE. Ecosystem builders from around the country spent 2.5 days in Portland, March 19–21, with panels at the Wacom Experience Center, a public reception at Tilt on East Burnside, and site visits across the city.](https://siliconflorist.com/2019/11/14/revisiting-the-startup-champions-network-portland-visit/)
 - 2016 — [*Intel Outside* — lead organizer. A free community job fair at the Falcon Building for the ~800 Portlanders laid off by Intel, built from a blog post to nearly 200 supporting companies in four weeks, with no budget.](https://siliconflorist.com/2016/05/24/escalated-quickly-join-free-portland-community-job-fair-june-1-falcon-building/)
+- 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
+- 2014 — [*Built Oregon* — funding a statewide storytelling project for Oregon’s consumer product founders, because nobody was telling those stories either](https://www.kickstarter.com/projects/130336980/built-oregon/)
 - 2013 — *Hack @ Hayward* — Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.
 - 2012 — [*Portland Narrative Hack* — a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.](https://vimeo.com/44539955)
 - 2009–10 — [*30 Hour Day* — a 30-hour livestreamed telethon run out of PIE for Oregon Food Bank, Free Geek, and Toys for Tots. 77,000 viewers, nearly $10,000 raised, and we did it twice.](https://siliconflorist.com/2014/12/19/years-portlands-startup-scene-approaching-long-incredibly-rewarding-day/)

@@ -124,10 +124,6 @@ GROUPS = [
  ("","<i>The Sports Bra</i> &mdash; Jenny Nguyen&rsquo;s bar that only shows women&rsquo;s sports, which turned out to be a very good idea","https://thesportsbraofficial.com/"),
  ("","<i>Tender Loving Empire</i> &mdash; Portland record label and craft shops, proving you can build a company out of making things by hand","https://tenderlovingempire.com/"),
 ]),
-("kick", "Kickstarter campaigns", [
- ("2016","<i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away","https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"),
- ("2014","<i>Built Oregon</i> &mdash; funding a statewide storytelling project for Oregon&rsquo;s consumer product founders, because nobody was telling those stories either","https://www.kickstarter.com/projects/130336980/built-oregon/"),
-]),
 ("ksback", "Kickstarter investments", [
  ("","<i>Hasaan Hates Portland</i>","https://www.kickstarter.com/projects/mischawebley/hasaan-hates-portland"),
  ("","<i>It Takes a Valley</i>","https://www.kickstarter.com/projects/ittakesavalley/it-takes-a-valley"),
@@ -278,6 +274,8 @@ GROUPS = [
  ("2014&ndash;20","<i>Portland Startup Week</i> &mdash; started it and ran the programming, then handed it off in 2020. It outlasted me by six years and survived a pandemic before being retired in 2026 in favor of a statewide Oregon Startup Week.","https://siliconflorist.com/2014/10/14/portland-startup-week-design-week-portland-startup-awesomeness/"),
  ("2016","<i>Intel Outside</i> &mdash; lead organizer. A free community job fair at the Falcon Building for the ~800 Portlanders laid off by Intel, built from a blog post to nearly 200 supporting companies in four weeks, with no budget.","https://siliconflorist.com/2016/05/24/escalated-quickly-join-free-portland-community-job-fair-june-1-falcon-building/"),
  ("2013","<i>Hack @ Hayward</i> &mdash; Eugene, with Intel, Oregon Film, and TrackTown USA. Two days at Hayward Field imagining the fan experience ahead of the World Junior Championships.",""),
+  ("2016","<i>PIE Cookbook: An Open Source Guide for Startup Accelerators</i> &mdash; crowdfunding the work of writing down everything we learned running PIE, and giving it away","https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce"),
+ ("2014","<i>Built Oregon</i> &mdash; funding a statewide storytelling project for Oregon&rsquo;s consumer product founders, because nobody was telling those stories either","https://www.kickstarter.com/projects/130336980/built-oregon/"),
  ("2012","<i>Portland Narrative Hack</i> &mdash; a day with Intel, Wieden+Kennedy, and Oregon Film, hacking the future of interactive storytelling. Sixteen people, no rules. It became Oregon Story Board.","https://vimeo.com/44539955"),
  ("2017&ndash;","<i>Built Festival</i> &mdash; Built Oregon&rsquo;s annual gathering of the state&rsquo;s consumer product founders, makers, and retailers. Started as Built Up Festival in 2017; 700 people across 17 events that first week.","https://www.builtoregon.com/"),
 ]),
@@ -313,7 +311,7 @@ L = ['  <section class="section" id="index">',
      '',
      '        <div class="filters" role="group" aria-label="Filter the index">',
      '          <button type="button" class="chip" data-filter="all" aria-pressed="true">Everything</button>']
-for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Writing"),("invest kick ksback","Investments"),("org","Organizing"),("built","Built")]:
+for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck","Writing"),("invest ksback","Investments"),("org","Organizing"),("built","Built")]:
     L.append('          <button type="button" class="chip" data-filter="%s" aria-pressed="false">%s</button>' % (key, lab))
 L.append('        </div>')
 
