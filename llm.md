@@ -77,6 +77,8 @@ I also wrote a blog called “hypocritical” starting in 1998. We don’t need 
 
 I've turned up on PBS NewsHour, OPB's Think Out Loud, GeekWire, The Oregonian, Portland Monthly, Oregon Business, and the cover of Willamette Week.
 
+I show up in other people's books, too. I'm one of the contributors to [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312), Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible. And Portland gets its mention in [*The Startup Community Way*](https://bookshop.org/a/128693/9781119613602), Brad Feld and Ian Hathaway's follow-up to *Startup Communities*.
+
 Other folks have described me more generously than I'd ever describe myself. So I'll let them.
 
 > "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
@@ -85,7 +87,7 @@ Other folks have described me more generously than I'd ever describe myself. So 
 
 > "The Don Quixote of Portland tech.There is only one Rick."*Dylan Boyd*
 
-The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The Portland Business Journal gave me Small Business Advocate of the Year. Mara also once called me Yoda, which I've decided to interpret as a comment on the wisdom and not the height.
+The Kauffman Foundation calls me one of the “OGs” of ecosystem building. The Portland Business Journal gave me Small Business Advocate of the Year. Mara also once called me Yoda, which I've decided to interpret as a comment on the wisdom and not the age.
 
 ---
 
