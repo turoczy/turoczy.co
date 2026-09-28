@@ -35,8 +35,8 @@ Sometimes people pay me to help. That still surprises me.
 - **HubSpot INBOUND** — Bold Talks, “[The Power of Humility](https://www.youtube.com/watch?v=Cs7Hr_CN5v4)”
 - **Founder University** — “[How to Write Investor Updates](https://www.youtube.com/watch?v=dgz-Ud4fq6w),” plus the metrics that matter
 - **[SOBCon](https://www.youtube.com/watch?v=s5e0sH3POlw)**, Chicago — on building things people actually show up for
-- **Skoll World Forum** — “Ecosystem Builders as Second Responders to Crisis”
-- **Kauffman Foundation ESHIP Summit** — panels and working groups
+- **Skoll World Forum** — “[Ecosystem Builders as Second Responders to Crisis](https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/)”
+- **Kauffman Foundation ESHIP Summit** — “[Why do you do what you do?](https://www.youtube.com/watch?v=VsnNX2vPJM8),” plus panels and working groups
 - **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
 - **Kobe, Japan** and **Muscat, Oman** — invited keynotes on building a community you actually have
 
