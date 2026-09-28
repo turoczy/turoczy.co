@@ -272,6 +272,19 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - [*OEN Social Media 101* — 83 slides of workshop for the Oregon Entrepreneurs Network](https://www.slideshare.net/slideshow/oen-social-media-101-presentation/725914)
 - [*Tiny Startup Camp: Social Media* — 21 slides, the short version](https://www.slideshare.net/slideshow/tiny-startup-camp-social-media/15146387)
 
+### Things I’ve invested in
+
+- [*Airship* (neé Urban Airship) — Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M](https://www.airship.com/)
+- [*Backstage Capital* — Arlan Hamilton’s fund backing founders who are underrepresented, underestimated, and usually overlooked](https://backstagecapital.com/)
+- [*Bison Venture Partners* — Garry Johnson III’s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own](https://wefunder.com/bisonvp)
+- [*Calm Company Fund* — Tyler Tringas’s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too](https://wefunder.com/calmfund)
+- [*Customer.io* — Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute](https://customer.io/)
+- [*Freeland Spirits* — Jill Kuehler’s women-owned Portland distillery, where the grain is grown on Cory Carman’s Oregon ranch and everything else starts from scratch](https://freelandspirits.com/)
+- [*Graze* — feed-building on Bluesky’s open social protocol, so the algorithm is yours instead of somebody else’s](https://www.graze.social/)
+- [*Riff* — Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go](https://letsriff.com/)
+- [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
+- [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
+
 ### Kickstarter campaigns
 
 - 2016 — [*PIE Cookbook: An Open Source Guide for Startup Accelerators* — crowdfunding the work of writing down everything we learned running PIE, and giving it away](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce)
@@ -415,19 +428,6 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 - [*ISS-Notify*](https://www.kickstarter.com/projects/natronics/iss-notify)
 - [*A New Season of Destination DIY*](https://www.kickstarter.com/projects/destinationdiy/a-new-season-of-destination-diy)
 - [*RDTN.org: Radiation Detection Hardware Network in Japan*](https://www.kickstarter.com/projects/1038658656/rdtnorg-radiation-detection-hardware-network-in-ja)
-
-### Things I’ve invested in
-
-- [*Airship* (neé Urban Airship) — Portland mobile engagement platform that grew out of the PIE coworking space and went on to raise more than $100M](https://www.airship.com/)
-- [*Backstage Capital* — Arlan Hamilton’s fund backing founders who are underrepresented, underestimated, and usually overlooked](https://backstagecapital.com/)
-- [*Bison Venture Partners* — Garry Johnson III’s outfit working to get investment dollars to Black founders, and lately to get founders AI infrastructure they actually own](https://wefunder.com/bisonvp)
-- [*Calm Company Fund* — Tyler Tringas’s fund for profitable, sustainable software companies that never wanted to be unicorns. I scouted for them, too](https://wefunder.com/calmfund)
-- [*Customer.io* — Portland customer messaging platform, and a charter member of the quiet generation of Portland startups that just execute](https://customer.io/)
-- [*Freeland Spirits* — Jill Kuehler’s women-owned Portland distillery, where the grain is grown on Cory Carman’s Oregon ranch and everything else starts from scratch](https://freelandspirits.com/)
-- [*Graze* — feed-building on Bluesky’s open social protocol, so the algorithm is yours instead of somebody else’s](https://www.graze.social/)
-- [*Riff* — Bend cold brew coffee, since reinvented as an energy drink. My position is marked failed, which is how a fair number of these go](https://letsriff.com/)
-- [*The Sports Bra* — Jenny Nguyen’s bar that only shows women’s sports, which turned out to be a very good idea](https://thesportsbraofficial.com/)
-- [*Tender Loving Empire* — Portland record label and craft shops, proving you can build a company out of making things by hand](https://tenderlovingempire.com/)
 
 ### Organizing
 
