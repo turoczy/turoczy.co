@@ -687,3 +687,53 @@
   var el = document.getElementById("copyright-year");
   if (el) el.textContent = new Date().getFullYear();
 })();
+
+/* ---------- SF latest headlines ----------
+   The list in #sf-latest is baked at build time by sf_latest.py, so it renders
+   with JS off and survives the API being down. This refreshes it on load so the
+   block doesn't go stale between builds.
+
+   KEEP `SKIP` IN SYNC with the SKIP regex in sf_latest.py. */
+(function () {
+  var list = document.getElementById("sf-latest");
+  if (!list || !window.fetch) return;
+
+  var API = "https://public-api.wordpress.com/rest/v1.1/sites/siliconflorist.com" +
+            "/posts/?number=20&fields=title,URL";
+  var SKIP = /links arrangement|startup news for the week|oregon startup news for the week/i;
+  var WANT = 5;
+
+  function decode(s) {
+    var d = document.createElement("textarea");
+    d.innerHTML = s;
+    return d.value;
+  }
+
+  fetch(API, { mode: "cors", credentials: "omit" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      if (!data || !data.posts) return;
+      var rows = [];
+      for (var i = 0; i < data.posts.length && rows.length < WANT; i++) {
+        var p = data.posts[i];
+        var title = decode(String(p.title || "")).trim();
+        var url = String(p.URL || "").trim();
+        if (!title || !url || SKIP.test(title)) continue;
+        rows.push({ title: title, url: url });
+      }
+      if (rows.length < WANT) return;   // never replace a full list with a short one
+
+      var frag = document.createDocumentFragment();
+      rows.forEach(function (row) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = row.url;
+        a.textContent = row.title;
+        li.appendChild(a);
+        frag.appendChild(li);
+      });
+      list.textContent = "";
+      list.appendChild(frag);
+    })
+    .catch(function () { /* keep the baked list */ });
+})();

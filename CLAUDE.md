@@ -9,16 +9,45 @@ result into `index.html` between `<section class="section" id="index">` and its
 close. Anything typed into that markup by hand is erased by the next build.
 
 Everything else in `index.html` — hero, Talking, Typing, **Receipts**, Hire,
-Work, Bot, Say hi — is hand-written and is the source of truth. Receipts in
-particular is a curated highlight reel, not generated: adding an entry to
-`index_data.py` does **not** put it in Receipts, and vice versa.
+Work, Bot, Say hi — is hand-written and is the source of truth, **with one
+exception noted below**. Receipts in particular is a curated highlight reel, not
+generated: adding an entry to `index_data.py` does **not** put it in Receipts,
+and vice versa.
 
-One command after any edit to `index.html`, `css/site.css`, `js/site.js`, or
-`index_data.py`:
+## The SF headline list inside Typing is also generated
+
+There are **two** generated regions, not one. Inside the otherwise hand-written
+Typing section, the `<ul id="sf-latest">` between the `<!-- SF-LATEST:START -->`
+and `<!-- SF-LATEST:END -->` markers is owned by `sf_latest.py`. The surrounding
+prose — including the "Some of the latest things I'm writing about:" lead-in —
+is hand-written and yours to edit.
+
+It is baked **and** fetched live, deliberately:
+
+- `sf_latest.py` bakes the current five at build time, so the list renders with
+  JavaScript off and survives the WordPress API being down.
+- The `SF latest headlines` block in `js/site.js` re-fetches the same endpoint on
+  page load and replaces the list. This is a booking page; a "latest things I'm
+  writing about" block that quietly goes three months stale between builds is
+  worse than no block.
+
+Two things to know:
+
+- **Link roundups are filtered out.** ~27% of recent SF posts are "links
+  arrangement" / weekly-recap posts. The `SKIP` regex drops them so the five
+  slots go to substantive posts. **That regex exists twice — `sf_latest.py` and
+  `js/site.js` — and the two must stay in sync.**
+- **A network failure is not a build failure.** `sf_latest.py` exits 0 without
+  writing when the API is unreachable, and `build.py` then leaves whatever is
+  already baked in `index.html` untouched. Verified: with the API host broken,
+  the build still exits 0 and `index.html` comes out byte-identical.
+
+One command after any edit to `index.html`, `css/site.css`, `js/site.js`,
+`index_data.py`, or `sf_latest.py`:
 
 ```bash
-python3 build.py          # splice #index, stamp ?v=, regenerate llm.md
-python3 build.py --no-splice   # only when deliberately leaving #index alone
+python3 build.py          # splice #index + SF headlines, stamp ?v=, regenerate llm.md
+python3 build.py --no-splice   # only when deliberately leaving both generated regions alone
 ```
 
 Skipping it serves a stale stylesheet and lets `llm.md` drift.
