@@ -46,6 +46,8 @@ Other folks have described me more generously than I'd ever describe myself. So 
 
 > "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
 
+> "Rick loves his community with a passion — and what's more, it loves him back."*Anika Horn, [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312)*
+
 > "The unofficial mayor of startup Portland."*Renny Gleeson*
 
 > "Most of the time I'd rather just do everything myself, but if I have the option to work with Rick then I always know the project will turn out better."*Marshall Kirkpatrick*

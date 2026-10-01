@@ -227,4 +227,5 @@ __marimo__/
 .sf_latest_section.html
 
 # safe_edit.py backups - never belong in the repo
-*.agent-backup
+# (trailing * catches the timestamped variant it writes when a backup already exists)
+*.agent-backup*
