@@ -223,6 +223,59 @@ def splice_index():
     print("spliced #index — %d lines replaced %d" % (len(new), end - start + 1))
 
 
+SF_LATEST_GEN = "sf_latest.py"
+SF_START = "<!-- SF-LATEST:START"
+SF_END = "<!-- SF-LATEST:END -->"
+
+
+def splice_sf_latest():
+    """Refresh the Silicon Florist headline list inside the Typing section.
+
+    Unlike splice_index(), a failure here is NOT fatal. sf_latest.py exits 0
+    without writing when the WordPress API is unreachable, and in that case the
+    markers keep whatever is already baked into index.html. A booking page must
+    not fail to build because a blog had a bad minute.
+    """
+    run = subprocess.run([sys.executable, SF_LATEST_GEN],
+                         capture_output=True, text=True)
+    sys.stdout.write(run.stdout)
+    if run.stderr:
+        sys.stderr.write(run.stderr)
+    if run.returncode != 0:
+        sys.stderr.write("%s failed — SF headline list left as-is.\n" % SF_LATEST_GEN)
+        return
+
+    import ast
+    tree = ast.parse(io.open(SF_LATEST_GEN, encoding="utf-8").read())
+    out = next((n.value.value for n in tree.body
+                if isinstance(n, ast.Assign)
+                and getattr(n.targets[0], "id", None) == "SECTION_OUT"), None)
+    if not out or not os.path.exists(out):
+        return
+
+    rows = io.open(out, encoding="utf-8").read().rstrip("\n")
+    lines = io.open(SRC, encoding="utf-8").read().split("\n")
+
+    starts = [i for i, l in enumerate(lines) if SF_START in l]
+    ends = [i for i, l in enumerate(lines) if SF_END in l]
+    if len(starts) != 1 or len(ends) != 1:
+        sys.exit("expected exactly one SF-LATEST marker pair in %s "
+                 "(found %d start, %d end)" % (SRC, len(starts), len(ends)))
+
+    # The <ul> opens after the START comment block and closes before END.
+    ul_open = next((i for i in range(starts[0], ends[0])
+                    if lines[i].strip().startswith("<ul")), None)
+    ul_close = next((i for i in range(ends[0], starts[0], -1)
+                     if lines[i].strip().startswith("</ul>")), None)
+    if ul_open is None or ul_close is None or ul_close <= ul_open:
+        sys.exit("could not find the <ul> between the SF-LATEST markers in %s" % SRC)
+
+    replaced = ul_close - ul_open - 1
+    lines[ul_open + 1:ul_close] = rows.split("\n")
+    io.open(SRC, "w", encoding="utf-8").write("\n".join(lines))
+    print("spliced SF headlines — %d rows replaced %d" % (len(rows.split("\n")), replaced))
+
+
 def stamp_assets():
     """Bump the ?v= on css/js so a browser can't serve a stale stylesheet."""
     import time
@@ -238,6 +291,7 @@ def stamp_assets():
 def main():
     if "--no-splice" not in sys.argv:
         splice_index()
+        splice_sf_latest()
     stamp_assets()
     doc = io.open(SRC, encoding="utf-8").read()
     t = Tree()

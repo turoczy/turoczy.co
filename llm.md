@@ -90,6 +90,14 @@ I've been typing words into computers since 1981. Back when I used to have to hi
 
 I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. More than six thousand posts about Oregon startups. Most of them written before anyone else thought there were Oregon startups worth writing about.
 
+Some of the latest things I'm writing about:
+
+- [Vancouver’s ZoomInfo acquires AI agent startup DoubleO.ai](https://siliconflorist.com/2026/10/01/vancouvers-zoominfo-acquires-ai-agent-startup-doubleo-ai/)
+- [Oregon Entrepreneurs Network secures ~$172K grant. Well, that was FAST.](https://siliconflorist.com/2026/10/01/oregon-entrepreneurs-network-secures-172k-grant-well-that-was-fast/)
+- [How are Oregon companies faring on the GeekWire 200…?](https://siliconflorist.com/2026/09/30/how-are-oregon-companies-faring-on-the-geekwire-200/)
+- [Portland’s Prelude Early Learning secures $2M NIH SBIR grant](https://siliconflorist.com/2026/09/29/portlands-prelude-early-learning-secures-2m-nih-sbir-grant/)
+- [Have an opinion on drones and Oregon…?](https://siliconflorist.com/2026/09/29/have-an-opinion-on-drones-and-oregon/)
+
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
 I also wrote the [**PIE Cookbook**](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/) — everything we figured out running an accelerator, including the mistakes and the happy accidents, written down and given away so any community could run its own. We Kickstarted it in 2016. It is still a beta. It will probably always be a beta.

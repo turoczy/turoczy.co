@@ -564,6 +564,30 @@ strong { font-weight: 600; }
 
 .section-body > :first-child { margin-top: 0; }
 
+/* ---------- SF latest headlines (Typing) ---------- */
+
+.sf-latest {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  display: grid;
+  gap: 0.6rem;
+  max-width: var(--measure);
+}
+
+.sf-latest li {
+  padding-left: 1rem;
+  position: relative;
+  line-height: 1.45;
+}
+
+.sf-latest li::before {
+  content: "\00B7";
+  position: absolute;
+  left: 0;
+  color: var(--moss);
+}
+
 /* ---------- Talks ---------- */
 
 .talks {
