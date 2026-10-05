@@ -17,6 +17,7 @@ GROUPS = [
  ("2020","Skoll World Forum &mdash; &ldquo;Ecosystem Builders as Second Responders to Crisis&rdquo;","https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/"),
  ("2018","Kauffman Foundation ESHIP Summit, Kansas City &mdash; &ldquo;Why do you do what you do?&rdquo;","https://www.youtube.com/watch?v=VsnNX2vPJM8"),
  ("recurring","SXSW Interactive, Austin &mdash; SXSW Pitch judge and advisory board, and curator of the Portland Tech Meet Up",""),
+ ("2010","SXSW Interactive, Austin &mdash; &ldquo;Don&rsquo;t Move! Build a Startup Community Where You Live,&rdquo; with Jeff Slobotski and Jeremy Tanner, moderated by Erin Kotecki Vest","https://siliconflorist.com/2009/08/18/sxsw-interactive-panel-picker-portland-proposals/"),
  ("2013","PSU Elevating Impact Summit &mdash; moderator, &ldquo;Resilience: Uncensored&rdquo;","https://www.pdx.edu/business/elevating-impact-2013"),
  ("2024","Silicon Forest Tech Summit &mdash; introducing the inaugural summit","https://www.youtube.com/watch?v=i3uXRPMEcGs"),
  ("2015","Whitman College &mdash; Andjelkovic Endowed Lecture Series, back at the alma mater","https://www.youtube.com/watch?v=5eyIqdpG4ZU"),

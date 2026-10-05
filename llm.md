@@ -186,7 +186,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 271 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 272 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -203,6 +203,7 @@ Everything I can find a record of — 271 entries and counting. Some of it I rem
 - 2013 — [HubSpot INBOUND, Boston — “The Power of Humility,” Bold Talks track](https://www.youtube.com/watch?v=Cs7Hr_CN5v4)
 - 2013 — [PSU Elevating Impact Summit — moderator, “Resilience: Uncensored”](https://www.pdx.edu/business/elevating-impact-2013)
 - 2012 — [SOBCon, Chicago — on building things people actually show up for](https://www.youtube.com/watch?v=s5e0sH3POlw)
+- 2010 — [SXSW Interactive, Austin — “Don’t Move! Build a Startup Community Where You Live,” with Jeff Slobotski and Jeremy Tanner, moderated by Erin Kotecki Vest](https://siliconflorist.com/2009/08/18/sxsw-interactive-panel-picker-portland-proposals/)
 - 2009 — [InnoTech Conference — “To Blog Or Not to Blog”](https://www.slideshare.net/slideshow/20090422innotechblogornot/1361308)
 - recurring — SXSW Interactive, Austin — SXSW Pitch judge and advisory board, and curator of the Portland Tech Meet Up
 - archival — OEN PubTalk, Portland — “The Tech Startup Scene in Portland”
