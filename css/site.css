@@ -787,7 +787,6 @@ footer.foot {
   grid-template-columns: 1fr;
   gap: 0.1rem 1.5rem;
   padding: 0.85rem 0;
-  border-bottom: 1px solid var(--rule);
 }
 @media (min-width: 46rem) {
   .cv li {
@@ -856,7 +855,6 @@ footer.foot {
   grid-template-columns: 4.75rem minmax(0, 1fr);
   gap: 0 1.25rem;
   padding: 0.7rem 0;
-  border-bottom: 1px solid var(--rule);
   align-items: baseline;
 }
 @media (max-width: 34rem) {
