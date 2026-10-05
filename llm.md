@@ -32,6 +32,7 @@ Sometimes people pay me to help. That still surprises me.
 - **TEDxPortland** — “[An Introvert's Guide to Networking](https://www.youtube.com/watch?v=Cj98mr_wUA0),” 723,000+ views
 - ***[The Startup Community Way](https://bookshop.org/a/128693/9781119613602)*** — wrote the PIE sidebar on embracing failure for Brad Feld and Ian Hathaway's follow-up to *Startup Communities*
 - ***[It Takes a Valley](https://bookshop.org/a/128693/9798995796312)*** — one of the contributors to Anika Horn's field guide to the people who build the ecosystems that make entrepreneurship possible
+- **OECD** — cited in the *[International Compendium of Entrepreneurship Policies](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/international-compendium-of-entrepreneurship-policies_f5d154be/338f1873-en.pdf)* for a Silicon Florist post on the Zebra movement
 - **HubSpot INBOUND** — Bold Talks, “[The Power of Humility](https://www.youtube.com/watch?v=Cs7Hr_CN5v4)”
 - **Founder University** — “[How to Write Investor Updates](https://www.youtube.com/watch?v=dgz-Ud4fq6w),” plus the metrics that matter
 - **[SOBCon](https://www.youtube.com/watch?v=s5e0sH3POlw)**, Chicago — on building things people actually show up for
@@ -47,6 +48,8 @@ Other folks have described me more generously than I'd ever describe myself. So 
 > "Rick is kind of a fairy godfather of the Portland startup scene."*Mara Zepeda, from the TEDxPortland stage — [watch](https://www.youtube.com/watch?v=e4Iul863X-M&t=300s)*
 
 > "Rick loves his community with a passion — and what's more, it loves him back."*Anika Horn, [*It Takes a Valley*](https://bookshop.org/a/128693/9798995796312)*
+
+> "[PIE,] an organization in Portland that Rick co-founded, can be thought of as a series of happy accidents that produced unpredictable creativity."*Brad Feld and Ian Hathaway, [*The Startup Community Way*](https://bookshop.org/a/128693/9781119613602)*
 
 > "The unofficial mayor of startup Portland."*Renny Gleeson*
 
@@ -94,11 +97,11 @@ I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. 
 
 Some of the latest things I'm writing about:
 
-- [Vancouver’s ZoomInfo acquires AI agent startup DoubleO.ai](https://siliconflorist.com/2026/10/01/vancouvers-zoominfo-acquires-ai-agent-startup-doubleo-ai/)
-- [Oregon Entrepreneurs Network secures ~$172K grant. Well, that was FAST.](https://siliconflorist.com/2026/10/01/oregon-entrepreneurs-network-secures-172k-grant-well-that-was-fast/)
-- [How are Oregon companies faring on the GeekWire 200…?](https://siliconflorist.com/2026/09/30/how-are-oregon-companies-faring-on-the-geekwire-200/)
-- [Portland’s Prelude Early Learning secures $2M NIH SBIR grant](https://siliconflorist.com/2026/09/29/portlands-prelude-early-learning-secures-2m-nih-sbir-grant/)
-- [Have an opinion on drones and Oregon…?](https://siliconflorist.com/2026/09/29/have-an-opinion-on-drones-and-oregon/)
+- [Curious about what Kreneon is building…?](https://siliconflorist.com/2026/10/05/curious-about-what-kreneon-is-building/)
+- [Startup and tech events for the week of Oct 5, 2026](https://siliconflorist.com/2026/10/05/startup-and-tech-events-for-the-week-of-oct-5-2026/)
+- [Week ending Oct 2, 2026, in Oregon startup news](https://siliconflorist.com/2026/10/02/week-ending-oct-2-2026-in-oregon-startup-news/)
+- [REMINDER: Friday night watch party… with a potential added bonus for you](https://siliconflorist.com/2026/10/02/reminder-friday-night-watch-party-with-a-potential-added-bonus-for-you/)
+- [Top 10 Silicon Florist posts for Q3 2026](https://siliconflorist.com/2026/10/02/top-10-silicon-florist-posts-for-q3-2026/)
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -183,7 +186,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 257 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 271 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -281,9 +284,23 @@ Everything I can find a record of — 257 entries and counting. Some of it I rem
 
 - 2026 — [*It Takes a Valley*, Anika Horn — a practitioner’s book about the people who build the ecosystems that make entrepreneurship possible. I turn up in it.](https://bookshop.org/p/books/it-takes-a-valley-how-to-build-thriving-entrepreneurial-ecosystems-that-transform-our-communities-anika-horn/24830809?aid=128693&ean=9798995796312&listref=startup-books)
 - 2020 — [*The Startup Community Way*, Brad Feld and Ian Hathaway — on building complex, founder-led regional ecosystems. I turn up in this one too.](https://bookshop.org/p/books/the-startup-community-way-evolving-an-entrepreneurial-ecosystem-brad-feld/16653612?aid=128693&ean=9781119613602&listref=startup-books)
+- 2020 — [*OECD Studies on SMEs and Entrepreneurship: International Compendium of Entrepreneurship Policies* — cites my Silicon Florist post on the Zebra movement](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/international-compendium-of-entrepreneurship-policies_f5d154be/338f1873-en.pdf)
+- 2010–19 — [*Moon Portland*, Hollyanna McCollom — the travel guide lists Silicon Florist and names me as its founder](https://archive.org/details/moonhandbookspor0000mcco)
+- 2017 — [*The Startup Mixtape*, Elliott Adams — I turn up in its roll call of names](https://archive.org/details/startupmixtapegu0000elli)
 - 2017 — [*Portland Makers: How to Build a Creative Community* — ポートランド・メイカーズ. Mitsuya Mazaki interviewed me in 2016; my words came out in Japanese, and later Korean.](https://book.gakugei-pub.co.jp/gakugei-book/9784761526429/)
 - 2016–17 — [*The PIE Cookbook* — everything we learned running PIE, written down and given away open source so any community could run its own accelerator. Kickstarted in 2016; the 0.9 beta landed in 2017.](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/)
+- 2016 — [*Draplin Design Co.: Pretty Much Everything*, Aaron Draplin — I turn up in a project credit alongside Joshua Reich, Mark Zusman, and Matt Manza](https://archive.org/details/draplindesigncop0000drap)
+- 2012 — [*This Book Is About Travel*, Andrew Hyde — I turn up in its roll call of names](https://archive.org/details/thisbookisaboutt0000andr)
+- 2011 — [*From Idea to Web Startup in 21 Days: Creating bacn.com*, Jason Glaspey — I donated a backend system to Bac’n, and it made the book](https://archive.org/details/fromideatowebsta0000glas)
+- 2011 — [*The Conversations of Democracy*, Stephen E. Frantzich — cites my *ReadWriteWeb* piece “Obama’s Social Media Advantages, Act II”](https://archive.org/details/conversationsofd0000fran)
+- 2010 — [*Brew to Bikes: Portland’s Artisan Economy*, Charles Heying — counts me among Portland’s “geek elite,” alongside Adam DuVander](https://archive.org/details/brewtobikesportl0000unse)
+- 2009 — [*33 Million People in the Room*, Juliette Powell — quotes me as “blogger Rick Turoczy”](https://archive.org/details/33millionpeoplei0000powe)
 - 2008–09 — [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
+- 2006 — [*Blog Marketing*, Jeremy Wright — I turn up in a list of bloggers](https://archive.org/details/blogmarketingrev0000wrig)
+- 2001–06 — [*Flash Geek* — my Flash and PowerPoint tutorial site, recommended in *Kathy Jacobs on PowerPoint*, *Fixing PowerPoint Annoyances*, *Flash Site Workshop*, and *Flash for the Real World*](https://web.archive.org/web/20010301180141/http://flashgeek.com/)
+- 2005 — [*IT Portfolio Management Step-by-Step*, Bryan Maizlish and Robert Handler — I turn up by name, from my ProSight days](https://openlibrary.org/works/OL16957190W)
+- 2001 — [*The Economic Payoff from the Internet Revolution*, Robert Litan and Alice Rivlin, Brookings — cites a phone interview with me from my MedicaLogic days](https://archive.org/details/economicpayofffr0000unse)
+- 1999 — [*Flash 3 Web Animation F/X and Design*, Ken Milburn and Janine Warner — quotes me from my Diversity days, when I ran web production](https://archive.org/details/flash3webanimati00kenm)
 - [*Brand Signals* — 150 slides on positioning and the things a brand says without saying them](https://www.slideshare.net/slideshow/brand-signals/21148)
 - [*Inspiring Illogical Decisions* — 50 slides on conviction over incrementalism](https://www.slideshare.net/slideshow/inspiring-illogical-decisions/7124543)
 - [*A Series of Happy Accidents* — 48 slides on how Portland’s scene actually happened](https://www.slideshare.net/slideshow/a-series-of-happy-accidents/55054257)
