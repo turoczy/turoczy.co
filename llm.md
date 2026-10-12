@@ -97,11 +97,11 @@ I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. 
 
 Some of the latest things I'm writing about:
 
-- [Curious about what Kreneon is building…?](https://siliconflorist.com/2026/10/05/curious-about-what-kreneon-is-building/)
-- [Startup and tech events for the week of Oct 5, 2026](https://siliconflorist.com/2026/10/05/startup-and-tech-events-for-the-week-of-oct-5-2026/)
-- [Week ending Oct 2, 2026, in Oregon startup news](https://siliconflorist.com/2026/10/02/week-ending-oct-2-2026-in-oregon-startup-news/)
-- [REMINDER: Friday night watch party… with a potential added bonus for you](https://siliconflorist.com/2026/10/02/reminder-friday-night-watch-party-with-a-potential-added-bonus-for-you/)
-- [Top 10 Silicon Florist posts for Q3 2026](https://siliconflorist.com/2026/10/02/top-10-silicon-florist-posts-for-q3-2026/)
+- [Startup and tech events this week](https://siliconflorist.com/2026/10/12/startup-and-tech-events-this-week-2/)
+- [Take the opportunity to crawl your way around the tech community in Vancouver, Washington](https://siliconflorist.com/2026/10/09/take-the-opportunity-to-crawl-your-way-around-the-tech-community-in-vancouver-washington/)
+- [Pitch Latino Portland 2026 is in the books. Who took home the big check…?](https://siliconflorist.com/2026/10/09/pitch-latino-portland-2026-is-in-the-books-who-took-home-the-big-check/)
+- [Pitching your startup soon…? Here’s the feedback I kept repeating](https://siliconflorist.com/2026/10/07/pitching-your-startup-soon-heres-the-feedback-i-kept-repeating/)
+- [Oregon AI Accelerator launches second cohort](https://siliconflorist.com/2026/10/06/oregon-ai-accelerator-launches-second-cohort/)
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -186,7 +186,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 272 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 278 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -483,6 +483,12 @@ Everything I can find a record of — 272 entries and counting. Some of it I rem
 
 ### Things I built
 
+- 2014– — [*Built Oregon* — cofounder. A nonprofit to celebrate, connect, and accelerate Oregon’s consumer product companies, because Oregon is the Silicon Valley of consumer products and somebody had to say so. Started as a storytelling project.](https://siliconflorist.com/2014/09/02/chapter-telling-stories-founders-startups-built-oregon/)
+- 2009– — [*PIE* — cofounder. The Portland Incubator Experiment, launched with Wieden+Kennedy and still an experiment, with partners from Autodesk and Coca-Cola to Nike and the State of Oregon along the way.](https://siliconflorist.com/2009/08/05/creative-wieden-kennedy-wk-launches-portland-incubator-experiment-pie/)
+- 2007– — [*Silicon Florist* — a blog about Portland startups. More than 6,000 posts so far, even though numerous people have begged me to stop.](https://siliconflorist.com/)
+- 2026 — [*RSVP w/ me* — every event, ranked by who you know, so you can see who’s going before you walk in the door.](https://rsvpw.me/)
+- 2012–21 — [*TechfestNW* — cofounder, with *Willamette Week*. Started in 2012 as PDX, the Portland Digital eXperience, a tech conference bolted onto MusicfestNW.](https://en.wikipedia.org/wiki/TechfestNW)
+- 2013–16 — [*Oregon Story Board* — cofounder. A digital storytelling accelerator, with Oregon Film and PIE, and Intel as the first sponsor. VR, AR, interactive narrative. Portland being Portland. It grew out of a one-day hack.](https://siliconflorist.com/tag/oregon-story-board/)
 - 2014 — [*Reportedly* — a tool to get founders in the habit of sending real updates to their investors, advisors, and team, instead of going quiet for a year. Acquired. The site is somehow still standing.](https://www.reportedly.co/)
 - 2008–10 — [*twurl* — a URL shortener, back when Twitter counted every character and everyone needed one. Ran on OpenID. Acquired. I never promoted it once and people used it anyway.](http://web.archive.org/web/20080325033548/http://twurl.cc/)
 - 2007–08 — [*Kumquat* — built and funded through Return. Self-directed performance reviews, so you could go ask for the feedback nobody was volunteering. Read/Write Web called it elegant and a ways to go, which was fair. It didn’t make it.](https://siliconflorist.com/2007/10/12/kumquat-get-the-feedback-you-deserve/)
