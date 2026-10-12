@@ -337,7 +337,12 @@ for key, lab in [("talk","Talks"),("show pod","Shows"),("press","Press"),("deck"
 L.append('        </div>')
 
 for key, title, rows in GROUPS:
-    ordered = sorted(enumerate(rows), key=lambda t: (-end_year(t[1][0]), -start_year(t[1][0]), t[0]))
+    if key == "built":
+        # Things I built read reverse-chron by when they started (Rick,
+        # 2026-10-12): an ongoing 2007 blog doesn't outrank a 2026 launch.
+        ordered = sorted(enumerate(rows), key=lambda t: (-start_year(t[1][0]), t[0]))
+    else:
+        ordered = sorted(enumerate(rows), key=lambda t: (-end_year(t[1][0]), -start_year(t[1][0]), t[0]))
     L.append('')
     L.append('        <section class="ix-group" data-group="%s">' % key)
     L.append('          <h3 class="ix-title">%s</h3>' % title)
