@@ -97,11 +97,11 @@ I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. 
 
 Some of the latest things I'm writing about:
 
-- [Startup and tech events this week](https://siliconflorist.com/2026/10/12/startup-and-tech-events-this-week-2/)
-- [Take the opportunity to crawl your way around the tech community in Vancouver, Washington](https://siliconflorist.com/2026/10/09/take-the-opportunity-to-crawl-your-way-around-the-tech-community-in-vancouver-washington/)
-- [Pitch Latino Portland 2026 is in the books. Who took home the big check…?](https://siliconflorist.com/2026/10/09/pitch-latino-portland-2026-is-in-the-books-who-took-home-the-big-check/)
-- [Pitching your startup soon…? Here’s the feedback I kept repeating](https://siliconflorist.com/2026/10/07/pitching-your-startup-soon-heres-the-feedback-i-kept-repeating/)
-- [Oregon AI Accelerator launches second cohort](https://siliconflorist.com/2026/10/06/oregon-ai-accelerator-launches-second-cohort/)
+- [Oregon UAS Accelerator cohort to take the stage in Portland](https://siliconflorist.com/2026/10/15/oregon-uas-accelerator-cohort-to-take-the-stage-in-portland/)
+- [Andrew Chan of Atas VC brings The Road Show to Portland on October 23](https://siliconflorist.com/2026/10/15/andrew-chan-of-atas-vc-brings-the-road-show-to-portland-on-october-23/)
+- [Portland startup Mueon raises $65 million Series A with OVF and Intel Capital in the mix](https://siliconflorist.com/2026/10/15/portland-startup-mueon-raises-65-million-series-a-with-ovf-and-intel-capital-in-the-mix/)
+- [Chatting with Mitch Daugherty about community](https://siliconflorist.com/2026/10/14/chatting-with-mitch-daugherty-about-community/)
+- [Hacking on Home Assistant?](https://siliconflorist.com/2026/10/13/hacking-on-home-assistant/)
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -502,10 +502,6 @@ Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subjec
 Coming soon: a bot that has read everything I've ever written — every post, every talk, every long-winded answer — so you can ask it the thing you'd ask me.
 
 Which means you can get a Rick opinion at 2am without having to buy me a coffee. Or wait for me to reply to your email, which — and I say this with love — can take a while.
-
-Ask it something hard.
-
-The Soqratic bot drops in here.
 
 ---
 
