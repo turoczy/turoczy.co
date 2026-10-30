@@ -407,7 +407,12 @@ strong { font-weight: 600; }
     0 0 0 6px color-mix(in srgb, var(--ground) 92%, transparent),
     0 18px 44px -12px rgba(20, 36, 30, 0.42);
   animation: avatar-float 7s ease-in-out infinite;
-  pointer-events: none;
+}
+/* Easter egg: the avatar links to YouTube. No link styling beyond the cursor. */
+.hero-avatar-link { cursor: pointer; }
+.hero-avatar-link:focus-visible .hero-avatar {
+  outline: 2px solid var(--rule);
+  outline-offset: 4px;
 }
 @keyframes avatar-float {
   0%, 100% { transform: translateY(-50%); }
