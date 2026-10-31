@@ -506,7 +506,7 @@ Which means you can get a Rick opinion at 2am without having to buy me a coffee.
 
 ---
 
-## Say hello
+## Connect
 
 If you've got a stage that needs filling, a company that can't explain itself, or a community you're trying to build from scratch — say hello. I'd genuinely love to hear what you're working on.
 
