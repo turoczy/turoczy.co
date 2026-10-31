@@ -22,7 +22,7 @@ GROUPS = [
  ("2024","Silicon Forest Tech Summit &mdash; introducing the inaugural summit","https://www.youtube.com/watch?v=i3uXRPMEcGs"),
  ("2015","Whitman College &mdash; Andjelkovic Endowed Lecture Series, back at the alma mater","https://www.youtube.com/watch?v=5eyIqdpG4ZU"),
  ("2015","New Relic FutureTalk &mdash; moderating &ldquo;Mobile Strategy for Today and Tomorrow&rdquo;","https://www.youtube.com/watch?v=6S7t-vYhWYk"),
- ("2012","SOBCon, Chicago &mdash; on building things people actually show up for","https://www.youtube.com/watch?v=s5e0sH3POlw"),
+ ("2012","SOBCon, Chicago &mdash; on business positioning: &ldquo;There is no weak position, there&rsquo;s only weak positioning&rdquo;","https://www.youtube.com/watch?v=s5e0sH3POlw"),
  ("2009","InnoTech Conference &mdash; &ldquo;To Blog Or Not to Blog&rdquo;","https://www.slideshare.net/slideshow/20090422innotechblogornot/1361308"),
  ("archival","OEN PubTalk, Portland &mdash; &ldquo;The Tech Startup Scene in Portland&rdquo;",""),
  ("2026","PubTalks Fireside Chat, Eugene &mdash; two decades of Oregon startups","https://www.tickettailor.com/events/collaborativeedo/2023310"),

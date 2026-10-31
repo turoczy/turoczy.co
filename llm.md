@@ -35,7 +35,7 @@ Sometimes people pay me to help. That still surprises me.
 - **OECD** — cited in the *[International Compendium of Entrepreneurship Policies](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/international-compendium-of-entrepreneurship-policies_f5d154be/338f1873-en.pdf)* for a Silicon Florist post on the Zebra movement
 - **HubSpot INBOUND** — Bold Talks, “[The Power of Humility](https://www.youtube.com/watch?v=Cs7Hr_CN5v4)”
 - **Founder University** — “[How to Write Investor Updates](https://www.youtube.com/watch?v=dgz-Ud4fq6w),” plus the metrics that matter
-- **[SOBCon](https://www.youtube.com/watch?v=s5e0sH3POlw)**, Chicago — on building things people actually show up for
+- **[SOBCon](https://www.youtube.com/watch?v=s5e0sH3POlw)**, Chicago — “There is no weak position, only weak positioning”
 - **Skoll World Forum** — “[Ecosystem Builders as Second Responders to Crisis](https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/)”
 - **Kauffman Foundation ESHIP Summit** — “[Why do you do what you do?](https://www.youtube.com/watch?v=VsnNX2vPJM8),” plus panels and working groups
 - **SXSW** — Pitch judge for roughly a decade, and curator of the Portland Tech Meet Up
@@ -80,6 +80,7 @@ Nobody has asked for their money back. Yet.
 - **Aggressive humility: when your best founders refuse to tell anyone they exist** — Portland founders won't promote themselves. It's charming. It's also killing them. A talk about why quiet ecosystems get overlooked, and what to do about it that doesn't require anyone to become insufferable. — Related: “[The Power of Humility](https://www.youtube.com/watch?v=Cs7Hr_CN5v4),” HubSpot INBOUND Bold Talks
 - **Collect dots before you connect dots** — Everybody wants to be the connector. Nobody wants to do the boring part first. This is about the years of listening, remembering, and writing it down that make the connecting look like magic later — and why there's no shortcut.
 - **Accelerators are crash tests** — We spent years at PIE accelerating startups, and the most valuable thing we did was accelerate the failures. Finding out you're wrong in three months instead of three years is a gift — here's how to build a program that hands out that gift on purpose. — Related: “[Ecosystem Builders as Second Responders to Crisis](https://socialventurers.com/ecosystem-builders-as-second-responders-to-crisis/),” Skoll World Forum
+- **[There is no weak position, only weak positioning](https://www.youtube.com/watch?v=s5e0sH3POlw)** — Every business thinks its position is the problem. It almost never is. This one is about owning where you actually stand, and telling that story on purpose. — Delivered at SOBCon, Chicago
 
 A fair number of these were recorded. [Here they are](https://www.youtube.com/playlist?list=PLr9gWRSfZqd523XOFnJXtp6ccvt0w44CA), if you want to check whether I can hold a room before you book me for one.
 
@@ -97,11 +98,11 @@ I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. 
 
 Some of the latest things I'm writing about:
 
-- [Oregon UAS Accelerator cohort to take the stage in Portland](https://siliconflorist.com/2026/10/15/oregon-uas-accelerator-cohort-to-take-the-stage-in-portland/)
-- [Andrew Chan of Atas VC brings The Road Show to Portland on October 23](https://siliconflorist.com/2026/10/15/andrew-chan-of-atas-vc-brings-the-road-show-to-portland-on-october-23/)
-- [Portland startup Mueon raises $65 million Series A with OVF and Intel Capital in the mix](https://siliconflorist.com/2026/10/15/portland-startup-mueon-raises-65-million-series-a-with-ovf-and-intel-capital-in-the-mix/)
-- [Chatting with Mitch Daugherty about community](https://siliconflorist.com/2026/10/14/chatting-with-mitch-daugherty-about-community/)
-- [Hacking on Home Assistant?](https://siliconflorist.com/2026/10/13/hacking-on-home-assistant/)
+- [Azenta acquires SynPlexity, a University of Oregon spinout](https://siliconflorist.com/2026/10/30/azenta-acquires-synplexity-a-university-of-oregon-spinout/)
+- [If you haven’t submitted your ballot yet, here’s my final recap of the Oregon governor’s race from a startup perspective](https://siliconflorist.com/2026/10/29/if-you-havent-submitted-your-ballot-yet-heres-my-final-recap-of-the-oregon-governors-race-from-a-startup-perspective/)
+- [Chatting with SentoClaw](https://siliconflorist.com/2026/10/28/chatting-with-sentoclaw/)
+- [Caravel Bio awarded $1.2M NSF SBIR Phase II grant](https://siliconflorist.com/2026/10/28/caravel-bio-awarded-1-2m-nsf-sbir-phase-ii-grant/)
+- [VertueLab names Leo Ochoa as new executive director](https://siliconflorist.com/2026/10/27/vertuelab-names-leo-ochoa-as-new-executive-director/)
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -202,7 +203,7 @@ Everything I can find a record of — 278 entries and counting. Some of it I rem
 - 2015 — [New Relic FutureTalk — moderating “Mobile Strategy for Today and Tomorrow”](https://www.youtube.com/watch?v=6S7t-vYhWYk)
 - 2013 — [HubSpot INBOUND, Boston — “The Power of Humility,” Bold Talks track](https://www.youtube.com/watch?v=Cs7Hr_CN5v4)
 - 2013 — [PSU Elevating Impact Summit — moderator, “Resilience: Uncensored”](https://www.pdx.edu/business/elevating-impact-2013)
-- 2012 — [SOBCon, Chicago — on building things people actually show up for](https://www.youtube.com/watch?v=s5e0sH3POlw)
+- 2012 — [SOBCon, Chicago — on business positioning: “There is no weak position, there’s only weak positioning”](https://www.youtube.com/watch?v=s5e0sH3POlw)
 - 2010 — [SXSW Interactive, Austin — “Don’t Move! Build a Startup Community Where You Live,” with Jeff Slobotski and Jeremy Tanner, moderated by Erin Kotecki Vest](https://siliconflorist.com/2009/08/18/sxsw-interactive-panel-picker-portland-proposals/)
 - 2009 — [InnoTech Conference — “To Blog Or Not to Blog”](https://www.slideshare.net/slideshow/20090422innotechblogornot/1361308)
 - recurring — SXSW Interactive, Austin — SXSW Pitch judge and advisory board, and curator of the Portland Tech Meet Up
