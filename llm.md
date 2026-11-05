@@ -98,11 +98,11 @@ I've been writing [**Silicon Florist**](https://siliconflorist.com) since 2007. 
 
 Some of the latest things I'm writing about:
 
-- [Azenta acquires SynPlexity, a University of Oregon spinout](https://siliconflorist.com/2026/10/30/azenta-acquires-synplexity-a-university-of-oregon-spinout/)
-- [If you haven’t submitted your ballot yet, here’s my final recap of the Oregon governor’s race from a startup perspective](https://siliconflorist.com/2026/10/29/if-you-havent-submitted-your-ballot-yet-heres-my-final-recap-of-the-oregon-governors-race-from-a-startup-perspective/)
-- [Chatting with SentoClaw](https://siliconflorist.com/2026/10/28/chatting-with-sentoclaw/)
-- [Caravel Bio awarded $1.2M NSF SBIR Phase II grant](https://siliconflorist.com/2026/10/28/caravel-bio-awarded-1-2m-nsf-sbir-phase-ii-grant/)
-- [VertueLab names Leo Ochoa as new executive director](https://siliconflorist.com/2026/10/27/vertuelab-names-leo-ochoa-as-new-executive-director/)
+- [Building a bioscience company in Oregon? Apply for BioBuild by November 20, 2026](https://siliconflorist.com/2026/11/04/building-a-bioscience-company-in-oregon-apply-for-biobuild-by-november-20-2026/)
+- [REMINDER: Request your invitation to the Oregon UAS Innovation Showcase](https://siliconflorist.com/2026/11/04/reminder-request-your-invitation-to-the-oregon-uas-innovation-showcase/)
+- [Remembering Aaron Swartz: Portland Civic Lab hosts free screening of The Internet’s Own Boy](https://siliconflorist.com/2026/11/04/remembering-aaron-swartz-portland-civic-lab-hosts-free-screening-of-the-internets-own-boy/)
+- [Yak chats with Human Led Growth podcast](https://siliconflorist.com/2026/11/03/yak-chats-with-human-led-podcast/)
+- [From Bend Venture Conference 2026, “Betting on Oregon: A Candid Conversation”](https://siliconflorist.com/2026/11/03/from-bend-venture-conference-2026-betting-on-oregon-a-candid-conversation/)
 
 There are shows now, too: **Portland, Oregon, Startup News**, **Startup Stories with Silicon Florist**, and **The Long Con**, which is exactly as advisable as it sounds. All of them live on [YouTube](https://youtube.com/@turoczy_) and wherever you get podcasts.
 
@@ -187,7 +187,7 @@ Thirty years of it. The first half was marketing jobs at venture funded tech sta
 
 ## Index
 
-Everything I can find a record of — 278 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
+Everything I can find a record of — 279 entries and counting. Some of it I remember fondly. Some of it I remember differently than the people who were there.
 
 ### Keynotes, conference talks, and panels
 
@@ -299,6 +299,7 @@ Everything I can find a record of — 278 entries and counting. Some of it I rem
 
 - 2026 — [*It Takes a Valley*, Anika Horn — a practitioner’s book about the people who build the ecosystems that make entrepreneurship possible. I turn up in it.](https://bookshop.org/p/books/it-takes-a-valley-how-to-build-thriving-entrepreneurial-ecosystems-that-transform-our-communities-anika-horn/24830809?aid=128693&ean=9798995796312&listref=startup-books)
 - 2020 — [*The Startup Community Way*, Brad Feld and Ian Hathaway — on building complex, founder-led regional ecosystems. I turn up in this one too.](https://bookshop.org/p/books/the-startup-community-way-evolving-an-entrepreneurial-ecosystem-brad-feld/16653612?aid=128693&ean=9781119613602&listref=startup-books)
+- 2020 — [*The Community Club* — “In Community We Trust,” on why trust is the currency of community and how to keep it](https://web.archive.org/web/20201126003022/https://the.community.club/turoczy/in-community-we-trust-1em1)
 - 2017 — [*Portland Makers: How to Build a Creative Community* — ポートランド・メイカーズ. Mitsuya Mazaki interviewed me in 2016; my words came out in Japanese, and later Korean.](https://book.gakugei-pub.co.jp/gakugei-book/9784761526429/)
 - 2016–17 — [*The PIE Cookbook* — everything we learned running PIE, written down and given away open source so any community could run its own accelerator. Kickstarted in 2016; the 0.9 beta landed in 2017.](https://siliconflorist.com/2017/04/04/an-initial-taste-of-the-pie-cookbook/)
 - 2008–09 — [*2008 Portland Tech Recap* — 64 slides, for PDX Web Innovators](https://www.slideshare.net/slideshow/2008-portland-tech-recap-presentation/816775)
