@@ -501,7 +501,7 @@ Missing something? I probably forgot it. [Tell me](mailto:rick@piepdx.com?subjec
 
 ## Chat
 
-Coming soon: a bot that has read everything I've ever written — every post, every talk, every long-winded answer — so you can ask it the thing you'd ask me.
+A friendly little virtual me that has read everything I've ever written — every post, every talk, every long-winded answer — so you can ask it the thing you'd ask me.
 
 Which means you can get a Rick opinion at 2am without having to buy me a coffee. Or wait for me to reply to your email, which — and I say this with love — can take a while.
 
